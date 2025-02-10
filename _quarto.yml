@@ -5,7 +5,7 @@ website:
   favicon: assets/favicon.svg
   search: false
   navbar:
-    logo: assets/logo2.png
+    logo: assets/hdrn-logo-text2.png
     logo-alt: University of Bristol
     pinned: true
   sidebar:
