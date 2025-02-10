@@ -1,15 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Health Data Research Network",
-    "section": "",
-    "text": "What is the Health Data Research Network?\nThe Health Data Research Network (HDRN) is a community of practice that aims to establish a collaborative network that unites universities, local governmental bodies, national research initiatives, technological industry leaders and pharmaceutical companies to advance and promote standardized practices in data handling, security, and analysis.\nHDRN is funded by University of Bristol Division of Research, Enterprise and Innovation.\n\n\nWhat are we doing?\nWe are organizing monthly workshops that discuss about specific topics on health data science, from data access to patient and public involvement. Check the upcoming events.\nThe events will be an opportunity to share knowledge, discuss and agree best practices, and networking. Taking inspiration from The Turing Way and Data Hazards, each workshop will be reflected in a chapter of a live, collaborative book on standard practices for health data science.\n\n\nWhat should I do next?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJoin our mailing list\n\n\nSign up to our alerts mailing list to keep informed of new events.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRegister to our events\n\n\nBook onto workshops via our online booking forms.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCheck the best practices book\n\n\nComing soon.\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items",
-    "crumbs": [
-      "About HDRN"
-    ]
-  },
-  {
     "objectID": "mailing-list.html",
     "href": "mailing-list.html",
     "title": "Join our mailing list",
@@ -20,44 +10,13 @@
     ]
   },
   {
-    "objectID": "index2.html",
-    "href": "index2.html",
+    "objectID": "index.html",
+    "href": "index.html",
     "title": "Health Data Research Network",
     "section": "",
-    "text": "The Health Data Research Network (HDRN) will be a community of practice that aims to establish a collaborative network that unites universities, local governmental bodies, national research initiatives, technological industry leaders and pharmaceutical companies to advance and promote standardized practices in data handling, security, and analysis."
-  },
-  {
-    "objectID": "index2.html#workshop-schedule",
-    "href": "index2.html#workshop-schedule",
-    "title": "Health Data Research Network",
-    "section": "Workshop schedule",
-    "text": "Workshop schedule\nYou will be able to book onto courses 4 weeks in advance, via online booking forms on the course directory. We’ll send updates to our mailing list when new booking forms are available. Please make sure you’re signed up, if you’d like to get the announcements!\n\n\n\nCourse\nDate\nTime\nLocation\nRegistration\n\n\n\n\nWorkshop\nWednesday 12 March 2025\n10am-2pm\nEngineers House, BS8 XXX\nRegistration Closed\n\n\nWorkshop\nWednesday X April 2025\n10am-2pm\nWills Memorial Building, BS8 XXX\nRegistration Closed\n\n\nWorkshop\nWednesday X May 2025\n10am-2pm\nWills Memorial Building, BS8 XXX\nRegistration Closed\n\n\nWorkshop\nWednesday X June 2025\n10am-2pm\nWills Memorial Building, BS8 XXX\nRegistration Closed\n\n\nWorkshop\nWednesday X July 2025\n10am-2pm\nWills Memorial Building, BS8 XXX\nRegistration Closed"
-  },
-  {
-    "objectID": "index2.html#contacts-and-credits",
-    "href": "index2.html#contacts-and-credits",
-    "title": "Health Data Research Network",
-    "section": "Contacts and credits",
-    "text": "Contacts and credits\nThese courses are maintained and delivered by the teams at the University of Bristol’s Jean Golding Institute and the Advanced Computing Research Centre. If you have any questions, feedback or suggested topics for training (including bespoke training sessions), please contact us.\nMany of the courses were originally developed by members of the University of Bristol’s Research Software Engineering group, with special thanks to Christopher Woods, Matt Williams and Al Tanner."
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contacts",
-    "section": "",
-    "text": "The Health Data Research Network (HDRN) is lead by University of Bristol’s Jean Golding Institute.\nIf you have any questions or feedback, please contact us at: jgi-training@bristol.ac.uk.",
+    "text": "What is the Health Data Research Network?\nThe Health Data Research Network (HDRN) is a community of practice that aims to establish a collaborative network that unites universities, local governmental bodies, national research initiatives, technological industry leaders and pharmaceutical companies to advance and promote standardized practices in data handling, security, and analysis.\nHDRN is funded by University of Bristol Division of Research, Enterprise and Innovation.\n\n\nWhat are we doing?\nWe are organizing monthly workshops that discuss about specific topics on health data science, from data access to patient and public involvement. Check the upcoming events.\nThe events will be an opportunity to share knowledge, discuss and agree best practices, and networking. Taking inspiration from The Turing Way and Data Hazards, each workshop will be reflected in a chapter of a live, collaborative book on standard practices for health data science.\n\n\nWhat should I do next?\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJoin our mailing list\n\n\nSign up to our alerts mailing list to keep informed of new events.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRegister to our events\n\n\nBook onto workshops via our online booking forms.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCheck the best practices book\n\n\nComing soon.\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items",
     "crumbs": [
-      "Contacts"
-    ]
-  },
-  {
-    "objectID": "upcoming.html",
-    "href": "upcoming.html",
-    "title": "Upcoming courses",
-    "section": "",
-    "text": "You will be able to book onto courses four weeks in advance, via online booking forms on this page.\nWe’ll send updates to our training alerts mailing list when new booking forms are available. Make sure you’re signed up, if you’d like to get the announcements!\nFor more information or if you have any questions, please contact us.\nWe are currently planning our teaching schedule for this term, keep an eye on the mailing list for updates!",
-    "crumbs": [
-      "Upcoming courses"
+      "About HDRN"
     ]
   },
   {
@@ -71,11 +30,14 @@
     ]
   },
   {
-    "objectID": "events/w20250312.html",
-    "href": "events/w20250312.html",
-    "title": "Workshop 12 March 2025",
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contacts",
     "section": "",
-    "text": "Engineers House, Bristol BS8 3NB ///dent.beyond.bridge\n\nAgenda\nChair: Pau Erola, Research Software Engineer, Jean Golding Institute, UoB\n9.45 Arrival – self-service tea and coffee\n10.00 Welcome\n10.10 Rachel Denholm, Senior Lecturer, Bristol Medical School, UoB, and Co-Director of Health Data Research UK South West\n10.40 Damon Chow, Business Data Analyst, HDR UK\n11.10 Coffee break\n11.30 Fiona Booth, Data integrity & Quality Assurance Programme Director, UoB\n12.00 TBA\n12.20 Will Chapman, Data Scientist, Jean Golding Institute Assessing routine data collection\n12.40 Q&A and round table Challenges in health data research: aims for the HDRN\n13.00 Networking lunch"
+    "text": "The Health Data Research Network (HDRN) is lead by University of Bristol’s Jean Golding Institute.\nIf you have any questions or feedback, please contact us at: jgi-training@bristol.ac.uk.",
+    "crumbs": [
+      "Contacts"
+    ]
   },
   {
     "objectID": "book.html",
@@ -83,5 +45,12 @@
     "title": "The HDRN book",
     "section": "",
     "text": "Coming soon."
+  },
+  {
+    "objectID": "events/w20250312.html",
+    "href": "events/w20250312.html",
+    "title": "Workshop 12 March 2025",
+    "section": "",
+    "text": "Engineers House, Bristol BS8 3NB ///dent.beyond.bridge\n\nAgenda\nChair: Pau Erola, Research Software Engineer, Jean Golding Institute, UoB\n9.45 Arrival – self-service tea and coffee\n10.00 Welcome\n10.10 Rachel Denholm, Senior Lecturer, Bristol Medical School, UoB, and Co-Director of Health Data Research UK South West\n10.40 Damon Chow, Business Data Analyst, HDR UK\n11.10 Coffee break\n11.30 Fiona Booth, Data integrity & Quality Assurance Programme Director, UoB\n12.00 TBA\n12.20 Will Chapman, Data Scientist, Jean Golding Institute Assessing routine data collection\n12.40 Q&A and round table Challenges in health data research: aims for the HDRN\n13.00 Networking lunch"
   }
 ]
