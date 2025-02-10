@@ -1,0 +1,34 @@
+---
+title: Workshop 12 March 2025
+---
+
+Engineers House, Bristol BS8 3NB
+[///dent.beyond.bridge](https://what3words.com/dent.beyond.bridge)
+
+
+### Agenda
+
+*Chair: Pau Erola, Research Software Engineer, Jean Golding Institute, UoB*
+
+9.45	Arrival – self-service tea and coffee
+
+10.00	Welcome
+
+10.10	**Rachel Denholm**, Senior Lecturer, Bristol Medical School, UoB,
+			and Co-Director of Health Data Research UK South West	
+
+10.40	**Damon Chow**, Business Data Analyst, HDR UK
+
+11.10	Coffee break
+
+11.30	**Fiona Booth**, Data integrity & Quality Assurance Programme Director, UoB
+
+12.00	TBA
+
+12.20	**Will Chapman**, Data Scientist, Jean Golding Institute
+	Assessing routine data collection
+
+12.40	Q&A and round table
+Challenges in health data research: aims for the HDRN
+
+13.00 	Networking lunch

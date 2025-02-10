@@ -1,0 +1,25 @@
+project:
+  type: website
+
+website:
+  favicon: assets/favicon.svg
+  search: false
+  navbar:
+    logo: assets/logo.svg
+    logo-alt: University of Bristol
+    pinned: true
+  sidebar:
+    contents:
+      - text: About HDRN
+        href: index.qmd
+      - events.qmd
+      - mailing-list.qmd
+      - contact.qmd
+    pinned: true
+  page-footer:
+    center: Supported by the [Jean Golding Institute](https://www.bristol.ac.uk/golding/) © [CC-BY 4.0](http://creativecommons.org/licenses/by/4.0/)
+
+format:
+  html:
+    theme: assets/styles.scss
+    page-layout: full

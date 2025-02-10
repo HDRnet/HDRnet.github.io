@@ -1,0 +1,7 @@
+---
+title: Contacts
+---
+
+The Health Data Research Network (HDRN) is lead by University of Bristol's [Jean Golding Institute](https://www.bristol.ac.uk/golding/).
+
+If you have any questions or feedback, please contact us at: [jgi-training@bristol.ac.uk](mailto:jgi-training@bristol.ac.uk){.nobreak}.
