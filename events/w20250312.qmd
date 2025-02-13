@@ -5,30 +5,37 @@ title: Workshop 12 March 2025
 Engineers House, Bristol BS8 3NB
 [///dent.beyond.bridge](https://what3words.com/dent.beyond.bridge)
 
+[Registration Closed](){.btn .btn-sm .disabled}
+<!--[Register](https://events.teams.microsoft.com/event/511699eb...){.btn .btn-sm .btn-primary}-->
 
-### Agenda
+
+### Agenda <span style="background-color: #FFFF00">(provisional)</span>
+
 
 *Chair: Pau Erola, Research Software Engineer, Jean Golding Institute, UoB*
 
-9.45	Arrival – self-service tea and coffee
+
+9.30	Arrival – self-service tea and coffee
 
 10.00	Welcome
 
-10.10	**Rachel Denholm**, Senior Lecturer, Bristol Medical School, UoB,
-			and Co-Director of Health Data Research UK South West	
+10.10	**Rachel Denholm**, Senior Lecturer, Bristol Medical School, UoB, and Co-Director of Health Data Research UK South West	
 
-10.40	**Damon Chow**, Business Data Analyst, HDR UK
+10.30	**Damon Chow**, Business Data Analyst, HDR UK
 
-11.10	Coffee break
+10.50	Coffee break
 
-11.30	**Fiona Booth**, Data integrity & Quality Assurance Programme Director, UoB
+11.10	**Fiona Booth**, Data integrity & Quality Assurance Programme Director, UoB
 
-12.00	TBA
+<span style="background-color: #FFFF00">11.30	**Richard Welpton**, Head of Data Service Infrastructure, Economic and Social Research Council</span>
+
+<span style="background-color: #FFFF00">11.50	**Ben Elsworth**, Lead Data Engineer, Our Future Health</span>
+
+12.10	Comfort break
 
 12.20	**Will Chapman**, Data Scientist, Jean Golding Institute
-	Assessing routine data collection
 
-12.40	Q&A and round table
-Challenges in health data research: aims for the HDRN
+12.40	Q&A and round table<br>
+"Challenges in health data research: aims for the HDRN"
 
 13.00 	Networking lunch
