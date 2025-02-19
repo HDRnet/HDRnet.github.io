@@ -2,14 +2,14 @@
 title: Events
 ---
 
-You will be able to book onto events **4 weeks in advance**. We'll send updates to our mailing list when new booking forms are available. Please make sure you're signed up, if you'd like to get the announcements!
+You will be able to book onto events approximately **4 weeks in advance**. We'll send updates to our mailing list when new booking forms are available. Please make sure you're signed up, if you'd like to get the announcements!
 
 Event                                 | Date                        | Time   | Location | Registration 
 ----------------------------------------|-----------------------------|--------|----------|--------------
-[Workshop](./events/w20250312.qmd)             | Wednesday 12 March 2025   | 10am-2pm  | Engineers House, BS8 3BN   | [Registration Closed](){.btn .btn-sm .disabled}
+[Workshop](./events/w20250312.qmd)             | Wednesday 12 March 2025   | 10am-2pm  | Engineers House, BS8 3BN   | [Register](https://forms.office.com/e/KmVaRbpbSL){.btn .btn-sm .btn-primary}
 Workshop             | Wednesday 9 April 2025   | 10am-2pm  | Wills Memorial Building, BS8 1RJ   | [Registration Closed](){.btn .btn-sm .disabled}
 Workshop             | Wednesday 7 May 2025   | 10am-2pm  | Wills Memorial Building, BS8 1RJ   | [Registration Closed](){.btn .btn-sm .disabled}
 Workshop             | Tuesday 3 June 2025   | 10am-2pm  | TBA   | [Registration Closed](){.btn .btn-sm .disabled}
 Workshop             | Wednesday 2 July 2025   | 10am-2pm  | TBA   | [Registration Closed](){.btn .btn-sm .disabled}
 
-<!--[Register](https://events.teams.microsoft.com/event/511699eb-f502-4ca2-b329-245cf9d9d8de@b2e47f30-cd7d-4a4e-a5da-b18cf1a4151b){.btn .btn-sm .btn-primary}-->
+<!--[Register](https://events.teams.microsoft.com/event/511699eb...){.btn .btn-sm .btn-primary}-->

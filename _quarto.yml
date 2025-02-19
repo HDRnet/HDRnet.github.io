@@ -6,7 +6,7 @@ website:
   search: false
   navbar:
     logo: assets/hdrn-logo-text2.png
-    logo-alt: University of Bristol
+    logo-alt: Health Data Research Network, University of Bristol
     pinned: true
   sidebar:
     contents:
