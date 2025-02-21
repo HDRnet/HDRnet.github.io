@@ -1,22 +1,5 @@
 ---
 title: Health Data Research Network
----
-
-
-### What is the Health Data Research Network?
-The Health Data Research Network (HDRN) is a community of practice that aims to establish a collaborative network that unites universities, local governmental bodies, national research initiatives, technological industry leaders and pharmaceutical companies to advance and promote standardized practices in data handling, security, and analysis.
-
-HDRN is funded by University of Bristol Division of Research, Enterprise and Innovation.
-
-
-### What are we doing?
-We are organizing monthly workshops that discuss about specific topics on health data science, from data access to patient and public involvement. Check the upcoming events.
-
-The events will be an opportunity to share knowledge, discuss and agree best practices, and networking. Taking inspiration from [The Turing Way](https://book.the-turing-way.org/index.html) and [Data Hazards](https://datahazards.com/), each workshop will be reflected in a chapter of a live, collaborative book on standard practices for health data science.
-
-### What should I do next?
-
----
 listing:
   contents:
     - path: mailing-list.qmd
@@ -31,10 +14,26 @@ listing:
       title: Check the best practices book
       description: Coming soon.
       image: assets/courses-wordcloud.png
-
   type: grid
   sort: false
   id: page-links
-body-classes: hide-bar-after-lead
 ---
 
+## What is the Health Data Research Network?
+
+The Health Data Research Network (HDRN) is a community of practice that aims to establish a collaborative network that unites universities, local governmental bodies, national research initiatives, technological industry leaders and pharmaceutical companies to advance and promote standardized practices in data handling, security, and analysis.
+
+HDRN is funded by University of Bristol Division of Research, Enterprise and Innovation.
+
+## What are we doing?
+
+We are organizing monthly workshops that discuss about specific topics on health data science, from data access to patient and public involvement.
+Check the upcoming events.
+
+The events will be an opportunity to share knowledge, discuss and agree best practices, and networking.
+Taking inspiration from [The Turing Way](https://book.the-turing-way.org/index.html) and [Data Hazards](https://datahazards.com/), each workshop will be reflected in a chapter of a live, collaborative book on standard practices for health data science.
+
+## What should I do next?
+
+:::{#page-links}
+:::
