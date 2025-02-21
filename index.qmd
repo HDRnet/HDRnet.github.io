@@ -26,7 +26,7 @@ listing:
     - path: events.qmd
       title: Register to our events
       description: Book onto workshops via our online booking forms.
-      image: assets/photo-training.jpg
+      image: assets/photo-workshop.jpg
     - path: book.qmd
       title: Check the best practices book
       description: Coming soon.
