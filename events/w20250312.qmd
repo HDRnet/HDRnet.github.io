@@ -2,47 +2,28 @@
 title: Workshop 12th March 2025
 ---
 
-Health Data Research Network (HDRN) workshops are a forum space to advance and promote best and standardised practices in data access, handling, security, analysis and public engagement. Our network is open to universities, governmental bodies, national research initiatives, health professionals, and industry.
+Health Data Research Network (HDRN) workshops are a forum space to advance and promote best and standardised practices in data access, handling, security, analysis and public engagement.
+Our network is open to universities, governmental bodies, national research initiatives, health professionals, and industry.
 
 Venue: Engineers House, Bristol BS8 3NB [///dent.beyond.bridge](https://what3words.com/dent.beyond.bridge)
 
-<!--[Registration Opens Soon](){.btn .btn-sm .disabled}-->
-[Register](https://forms.office.com/e/KmVaRbpbSL){.btn .btn-sm .btn-primary}
+[Register](https://forms.office.com/e/KmVaRbpbSL){.btn .btn-primary}
 
-
-### Agenda <span style="background-color: #FFFF00"></span>
-
+## Agenda
 
 *Chair: Pau Erola, Research Software Engineer, Jean Golding Institute, UoB*
 
-
-9.30	Arrival – self-service tea and coffee
-
-10.00	Welcome
-
-10.10	**Rachel Denholm**, Senior Lecturer, Bristol Medical School, UoB, and Co-Director of Health Data Research UK South West	
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Title TBA*
-
-10.30	**Damon Chow**, Business Data Analyst, HDR UK
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*The Health Data Research Gateway*
-
-10.50	Coffee break
-
-11.10	**Fiona Booth**, Data integrity & Quality Assurance Programme Director, UoB
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Commercial vs. academic research approaches to reproducibility*
-
-11.30	**Richard Welpton**, Head of Data Service Infrastructure, Economic and Social Research Council
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Improving the experience of accessing sensitive data for research*
-
-11.50	**Ben Elsworth**, Lead Data Engineer, Our Future Health
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Processing and releasing genetic data at Our Future Health*
-
-12.10	Comfort break
-
-12.20	**Will Chapman**, Data Scientist, Jean Golding Institute
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Routine data for health research*
-
-12.40	Q&A and round table
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Challenges in health data research: aims for the HDRN*
-
-13.00 	Networking lunch
+|
+----: | ------------------------------------------------------------------------
+9.30  | Arrival -- self-service tea and coffee
+10.00 | Welcome
+10.10 | **Rachel Denholm**, Senior Lecturer, Bristol Medical School, UoB, and Co-Director of Health Data Research UK South West <br> *Title TBA*
+10.30 | **Damon Chow**, Business Data Analyst, HDR UK <br> *The Health Data Research Gateway*
+10.50 | Coffee break
+11.10 | **Fiona Booth**, Data integrity & Quality Assurance Programme Director, UoB <br> *Commercial vs. academic research approaches to reproducibility*
+11.30 | **Richard Welpton**, Head of Data Service Infrastructure, Economic and Social Research Council <br> *Improving the experience of accessing sensitive data for research*
+11.50 | **Ben Elsworth**, Lead Data Engineer, Our Future Health <br> *Processing and releasing genetic data at Our Future Health*
+12.10 | Break
+12.20 | **Will Chapman**, Data Scientist, Jean Golding Institute <br> *Routine data for health research*
+12.40 | Q&A and round table <br> *Challenges in health data research: aims for the HDRN*
+13.00 | Networking lunch
