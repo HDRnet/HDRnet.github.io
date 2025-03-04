@@ -24,7 +24,7 @@ Venue: Engineers House, Bristol BS8 3NB [///dent.beyond.bridge](https://what3wor
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Title TBA*
 
 10.30	**Damon Chow**, Business Data Analyst, HDR UK
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Title TBA*
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*The Health Data Research Gateway*
 
 10.50	Coffee break
 
@@ -40,7 +40,7 @@ Venue: Engineers House, Bristol BS8 3NB [///dent.beyond.bridge](https://what3wor
 12.10	Comfort break
 
 12.20	**Will Chapman**, Data Scientist, Jean Golding Institute
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Title TBA*
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Routine data for health research*
 
 12.40	Q&A and round table
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Challenges in health data research: aims for the HDRN*
