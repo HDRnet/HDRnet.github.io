@@ -21,7 +21,7 @@ Venue: Engineers House, Bristol BS8 3NB [///dent.beyond.bridge](https://what3wor
 10.00	Welcome
 
 10.10	**Rachel Denholm**, Senior Lecturer, Bristol Medical School, UoB, and Co-Director of Health Data Research UK South West	
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*The rise of new English Secure Data Environments*
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Title TBA*
 
 10.30	**Damon Chow**, Business Data Analyst, HDR UK
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*The Health Data Research Gateway*
