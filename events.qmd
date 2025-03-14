@@ -2,14 +2,33 @@
 title: Events
 ---
 
-You will be able to book onto events approximately **4 weeks in advance**. We'll send updates to our mailing list when new booking forms are available. Please make sure you're signed up, if you'd like to get the announcements!
+You will be able to book onto events approximately **4 weeks in advance**.
 
-Event                                 | Date                        | Time   | Location | Registration 
-----------------------------------------|-----------------------------|--------|----------|--------------
-[Workshop](./events/w20250312.qmd)             | Wednesday 12 March 2025   | 10am-2pm  | Engineers House, BS8 3BN   | [Register](https://forms.office.com/e/KmVaRbpbSL){.btn .btn-sm .btn-primary}
-Workshop             | Wednesday 9 April 2025   | 10am-2pm  | Wills Memorial Building, BS8 1RJ   | [Registration Closed](){.btn .btn-sm .disabled}
-Workshop             | Wednesday 7 May 2025   | 10am-2pm  | Wills Memorial Building, BS8 1RJ   | [Registration Closed](){.btn .btn-sm .disabled}
-Workshop             | Tuesday 3 June 2025   | 10am-2pm  | TBA   | [Registration Closed](){.btn .btn-sm .disabled}
-Workshop             | Wednesday 2 July 2025   | 10am-2pm  | TBA   | [Registration Closed](){.btn .btn-sm .disabled}
+We'll send updates to our mailing list when new booking forms are available.
+Please make sure [you're signed up](mailing-list.qmd), if you'd like to get the announcements!
 
-<!--[Register](https://events.teams.microsoft.com/event/511699eb...){.btn .btn-sm .btn-primary}-->
+::: {.content-hidden}
+<!--
+This is a template event schedule.
+Duplicate this content outside the {.content-hidden} block, rather than change this template.
+Be sure to keep the `: {.schedule}` at the end, as this improves formatting on phone screens.
+-->
+
+Event     | Date                        | Time      | Location                         |
+----------|-----------------------------|-----------|----------------------------------|--------------
+Workshop  | Wednesday 1  January   2025 | 10am-2pm  | Engineers House, BS8 3BN         | [Agenda](events/w20250101.qmd) [Registration closed](){.btn .btn-sm .disabled}
+Workshop  | Wednesday 1  February  2025 | 1-4pm     | Wills Memorial Building, BS8 1RJ | [Agenda](events/w20250102.qmd) [Register](https://forms.office.com/...){.btn .btn-sm .disabled}
+Workshop  | Wednesday 10 September 2025 | 1-4pm     | Online                           | [Agenda](events/w20250910.qmd)
+
+: {.schedule}
+:::
+
+Event     | Date                        | Time      | Location                         |
+----------|-----------------------------|-----------|----------------------------------|--------------
+Workshop  | Wednesday 12 March     2025 | 10am-2pm  | Engineers House, BS8 3BN         | [Agenda](events/w20250312.qmd){.btn .btn-sm .btn-primary} [Registration closed](){.btn .btn-sm .disabled}
+Workshop  | Wednesday 9  April     2025 | 10am-2pm  | Wills Memorial Building, BS8 1RJ |
+Workshop  | Wednesday 7  May       2025 | 10am-2pm  | Wills Memorial Building, BS8 1RJ |
+Workshop  | Tuesday   3  June      2025 | 10am-2pm  | TBA                              |
+Workshop  | Wednesday 2  July      2025 | 10am-2pm  | TBA                              |
+
+: {.schedule}
