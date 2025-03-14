@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Join our mailing list</title>
+<title>Upcoming courses</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -50,7 +50,6 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>window.location.replace("https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?SUBED1=HDRN&A=1");</script>
 
 
 </head>
@@ -63,7 +62,7 @@ ul.task-list li input[type="checkbox"] {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./assets/hdrn-logo-text2.png" alt="Health Data Research Network, University of Bristol" class="navbar-logo">
+    <img src="./assets/logo.svg" alt="University of Bristol" class="navbar-logo">
     </a>
   </div>
         <div class="quarto-navbar-tools tools-end">
@@ -75,7 +74,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./mailing-list.html">Join our mailing list</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./upcoming.html">Upcoming courses</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
     </div>
@@ -90,21 +89,27 @@ ul.task-list li input[type="checkbox"] {
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">About HDRN</span></a>
+ <span class="menu-text">About the training</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./events.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Events</span></a>
+  <a href="./upcoming.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text">Upcoming courses</span></a>
   </div>
 </li>
         <li class="sidebar-item">
+ <span class="menu-text">courses.qmd</span>
+  </li>
+        <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./mailing-list.html" class="sidebar-item-text sidebar-link active">
+  <a href="./mailing-list.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Join our mailing list</span></a>
   </div>
 </li>
+        <li class="sidebar-item">
+ <span class="menu-text">advice.qmd</span>
+  </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./contact.html" class="sidebar-item-text sidebar-link">
@@ -122,7 +127,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Join our mailing list</h1>
+<h1 class="title">Upcoming courses</h1>
 </div>
 
 
@@ -139,9 +144,10 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>We send announcements to our <strong>mailing list</strong> when new events become available. Make sure you’re signed up, if you’d like to get the announcements!</p>
-<p><a href="https://www.jiscmail.ac.uk/cgi-bin/wa-jisc.exe?SUBED1=HDRN&amp;A=1" class="btn btn-primary">Join our training alerts mailing list</a></p>
+<p>You will be able to book onto courses <strong>four weeks in advance</strong>, via online booking forms on this page.</p>
+<p>We’ll send updates to our <a href="./mailing-list.html">training alerts mailing list</a> when new booking forms are available. Make sure you’re signed up, if you’d like to get the announcements!</p>
 <p>For more information or if you have any questions, please <a href="./contact.html">contact us</a>.</p>
+<p><strong>We are currently planning our teaching schedule for this term, keep an eye on the mailing list for updates!</strong></p>
 
 
 
@@ -238,7 +244,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/HDRnet\.github\.io\/");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

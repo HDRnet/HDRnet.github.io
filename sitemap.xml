@@ -1,27 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://HDRnet.github.io/events/w20250312.html</loc>
-    <lastmod>2025-03-12T07:14:44.883Z</lastmod>
-  </url>
-  <url>
-    <loc>https://HDRnet.github.io/events.html</loc>
-    <lastmod>2025-03-12T07:14:44.883Z</lastmod>
-  </url>
-  <url>
     <loc>https://HDRnet.github.io/mailing-list.html</loc>
-    <lastmod>2025-03-12T07:14:44.883Z</lastmod>
+    <lastmod>2025-02-10T23:41:05.484Z</lastmod>
   </url>
   <url>
     <loc>https://HDRnet.github.io/index.html</loc>
-    <lastmod>2025-03-12T07:14:44.883Z</lastmod>
+    <lastmod>2025-03-12T07:29:05.168Z</lastmod>
   </url>
   <url>
-    <loc>https://HDRnet.github.io/book.html</loc>
-    <lastmod>2025-03-12T07:14:44.883Z</lastmod>
+    <loc>https://HDRnet.github.io/events.html</loc>
+    <lastmod>2025-03-12T07:29:05.167Z</lastmod>
   </url>
   <url>
     <loc>https://HDRnet.github.io/contact.html</loc>
-    <lastmod>2025-03-12T07:14:44.883Z</lastmod>
+    <lastmod>2025-02-10T23:41:05.483Z</lastmod>
+  </url>
+  <url>
+    <loc>https://HDRnet.github.io/archive/w20250312/HDRN_workshop_20250312.html</loc>
+    <lastmod>2025-03-14T09:07:09.162Z</lastmod>
+  </url>
+  <url>
+    <loc>https://HDRnet.github.io/book.html</loc>
+    <lastmod>2025-02-10T23:41:05.483Z</lastmod>
+  </url>
+  <url>
+    <loc>https://HDRnet.github.io/events/w20250312.html</loc>
+    <lastmod>2025-03-14T09:26:51.588Z</lastmod>
   </url>
 </urlset>

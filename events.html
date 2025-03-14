@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.6.42">
+<meta name="generator" content="quarto-1.5.57">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -31,10 +31,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-106ce7786650cdbe3056339ee04bb4fe.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "language": {
     "search-no-results-text": "No results",
@@ -138,56 +138,56 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>You will be able to book onto events approximately <strong>4 weeks in advance</strong>.</p>
-<p>We’ll send updates to our mailing list when new booking forms are available. Please make sure <a href="./mailing-list.html">you’re signed up</a>, if you’d like to get the announcements!</p>
-<table class="schedule caption-top table">
+<p>You will be able to book onto events approximately <strong>4 weeks in advance</strong>. We’ll send updates to our mailing list when new booking forms are available. Please make sure you’re signed up, if you’d like to get the announcements!</p>
+<table class="caption-top table">
 <thead>
 <tr class="header">
 <th>Event</th>
 <th>Date</th>
 <th>Time</th>
 <th>Location</th>
-<th></th>
+<th>Registration</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Workshop</td>
+<td><a href="./events/w20250312.html">Workshop</a></td>
 <td>Wednesday 12 March 2025</td>
 <td>10am-2pm</td>
 <td>Engineers House, BS8 3BN</td>
-<td><a href="./events/w20250312.html" class="btn btn-sm btn-primary">Agenda</a> <a href="https://forms.office.com/e/KmVaRbpbSL" class="btn btn-sm btn-primary">Register</a></td>
+<td><a href="https://forms.office.com/e/KmVaRbpbSL" class="btn btn-sm btn-primary">Register</a></td>
 </tr>
 <tr class="even">
 <td>Workshop</td>
 <td>Wednesday 9 April 2025</td>
 <td>10am-2pm</td>
 <td>Wills Memorial Building, BS8 1RJ</td>
-<td></td>
+<td><a href="" class="btn btn-sm disabled">Registration Closed</a></td>
 </tr>
 <tr class="odd">
 <td>Workshop</td>
 <td>Wednesday 7 May 2025</td>
 <td>10am-2pm</td>
 <td>Wills Memorial Building, BS8 1RJ</td>
-<td></td>
+<td><a href="" class="btn btn-sm disabled">Registration Closed</a></td>
 </tr>
 <tr class="even">
 <td>Workshop</td>
 <td>Tuesday 3 June 2025</td>
 <td>10am-2pm</td>
 <td>TBA</td>
-<td></td>
+<td><a href="" class="btn btn-sm disabled">Registration Closed</a></td>
 </tr>
 <tr class="odd">
 <td>Workshop</td>
 <td>Wednesday 2 July 2025</td>
 <td>10am-2pm</td>
 <td>TBA</td>
-<td></td>
+<td><a href="" class="btn btn-sm disabled">Registration Closed</a></td>
 </tr>
 </tbody>
 </table>
+<!--[Register](https://events.teams.microsoft.com/event/511699eb...){.btn .btn-sm .btn-primary}-->
 
 
 
@@ -274,6 +274,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -384,6 +386,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
+      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
