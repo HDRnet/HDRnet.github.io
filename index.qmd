@@ -21,7 +21,7 @@ listing:
 
 ## What is the Health Data Research Network?
 
-The Health Data Research Network (HDRN) is a community of practice that aims to establish a collaborative network that unites universities, local governmental bodies, national research initiatives, technological industry leaders and pharmaceutical companies to advance and promote standardized practices in data handling, security, and analysis.
+The Health Data Research Network (HDRN) is a community of practice that aims to establish a collaborative network that unites universities, local governmental bodies, national research initiatives, technological industry leaders and pharmaceutical companies to advance and promote standardized practices in data handling, security, and analysis. 
 
 HDRN is funded by University of Bristol Division of Research, Enterprise and Innovation.
 
