@@ -6,7 +6,9 @@ Health Data Research Network (HDRN) workshops are a forum space to advance and p
 
 Venue: Engineers House, Bristol BS8 3NB [///dent.beyond.bridge](https://what3words.com/dent.beyond.bridge)
 
-<!--[Registration Opens Soon](){.btn .btn-sm .disabled}
+<!--
+[Registration Opens Soon](){.btn .btn-sm .disabled}
+
 [Register](https://forms.office.com/e/KmVaRbpbSL){.btn .btn-sm .btn-primary}
 -->
 
