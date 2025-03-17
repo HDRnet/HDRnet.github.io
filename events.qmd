@@ -25,7 +25,7 @@ Workshop  | Wednesday 10 September 2025 | 1-4pm     | Online                    
 
 Event     | Date                        | Time      | Location                         |
 ----------|-----------------------------|-----------|----------------------------------|--------------
-Workshop  | Wednesday 12 March     2025 | 10am-2pm  | Engineers House, BS8 3BN         | [Agenda](events/w20250312.qmd){.btn .btn-sm .btn-primary} [Registration closed](){.btn .btn-sm .disabled}
+Workshop  | Wednesday 12 March     2025 | 10am-2pm  | Engineers House, BS8 3BN         | [Slides and recordings](events/w20250312.qmd){.btn .btn-sm .btn-primary}
 Workshop  | Wednesday 9  April     2025 | 10am-2pm  | Wills Memorial Building, BS8 1RJ |
 Workshop  | Wednesday 7  May       2025 | 10am-2pm  | Wills Memorial Building, BS8 1RJ |
 Workshop  | Tuesday   3  June      2025 | 10am-2pm  | TBA                              |

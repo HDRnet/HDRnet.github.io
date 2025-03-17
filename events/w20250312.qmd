@@ -18,17 +18,85 @@ Venue: Engineers House, Bristol BS8 3NB [///dent.beyond.bridge](https://what3wor
 
 *Chair: Pau Erola, Research Software Engineer, Jean Golding Institute, UoB*
 
-|
-----: | ------------------------------------------------------------------------
-9.30  | Arrival -- self-service tea and coffee
-10.00 | Welcome
-10.10 | **Rachel Denholm**, Senior Lecturer, Bristol Medical School, UoB, and Co-Director of Health Data Research UK South West <br> *[The rise of new English Secure Data Environments](../archive/w20250312/HDRN_20250312_01_RachelDenholm.pdf)* <br><iframe width="560" height="315" src="https://www.youtube.com/embed/S0RBmuoucM4?si=crovRnA3DfTLmX6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-10.30 | **Damon Chow**, Business Data Analyst, HDR UK <br> *[The Health Data Research Gateway](../archive/w20250312/HDRN_20250312_02_DamonChow.pdf)* <br><iframe width="560" height="315" src="https://www.youtube.com/embed/tAULRDMjJjI?si=V1USTyZSXTN-0XfG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-10.50 | Coffee break
-11.10 | **Fiona Booth**, Data integrity & Quality Assurance Programme Director, UoB <br> *[Commercial vs. academic research approaches to reproducibility](../archive/w20250312/HDRN_20250312_03_FionaBooth.pdf)* <br><iframe width="560" height="315" src="https://www.youtube.com/embed/W3RmzJNAI1E?si=q2Gw47azpyGtVEGr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-11.30 | **Richard Welpton**, Head of Data Service Infrastructure, Economic and Social Research Council <br> *[Improving the experience of accessing sensitive data for research](../archive/w20250312/HDRN_20250312_04_RichardWelpton.pdf)* <br><iframe width="560" height="315" src="https://www.youtube.com/embed/qkXRGm62T68?si=qnTOPq_iZZWM5g95" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-11.50 | **Ben Elsworth**, Lead Data Engineer, Our Future Health <br> *[Processing and releasing genetic data at Our Future Health](../archive/w20250312/HDRN_20250312_05_BenElsworth.pdf)* <br><iframe width="560" height="315" src="https://www.youtube.com/embed/Ky2pYtui63c?si=UAK6AKAfKHJGY3jF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-12.10 | Break
-12.20 | **Will Chapman**, Data Scientist, Jean Golding Institute <br> *[Routine data for health research](../archive/w20250312/HDRN_20250312_06_WillChapman.pdf)* <br><iframe width="560" height="315" src="https://www.youtube.com/embed/0d-C5dDi_7Q?si=rv7GlzGOAg5PLqW_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-12.40 | Q&A and round table <br> *Challenges in health data research: aims for the HDRN* 
-13.00 | Networking lunch
+<style>
+    table {
+        tr td:first-child { text-align: right; }
+    }
+</style>
+<table class="table">
+    <tr>
+        <td>9:30</td>
+        <td>Arrival -- self-service tea and coffee</td>
+    </tr>
+    <tr>
+        <td>10:00</td>
+        <td>Welcome</td>
+    </tr>
+    <tr>
+        <td>10:10</td>
+        <td>
+            **Rachel Denholm**, Senior Lecturer, Bristol Medical School, UoB, and Co-Director of Health Data Research UK South West  
+            [The rise of new English Secure Data Environments](../archive/w20250312/HDRN_20250312_01_RachelDenholm.pdf)
+            {{< video https://www.youtube-nocookie.com/embed/S0RBmuoucM4 >}}
+        </td>
+    </tr>
+    <tr>
+        <td>10:30</td>
+        <td>
+            **Damon Chow**, Business Data Analyst, HDR UK  
+            [The Health Data Research Gateway](../archive/w20250312/HDRN_20250312_02_DamonChow.pdf)
+            {{< video https://www.youtube-nocookie.com/embed/tAULRDMjJjI >}}
+        </td>
+    </tr>
+    <tr>
+        <td>10:50</td>
+        <td>Coffee break</td>
+    </tr>
+    <tr>
+        <td>11:10</td>
+        <td>
+            **Fiona Booth**, Data integrity &amp; Quality Assurance Programme Director, UoB  
+            [Commercial vs. academic research approaches to reproducibility](../archive/w20250312/HDRN_20250312_03_FionaBooth.pdf)
+            {{< video https://www.youtube-nocookie.com/embed/W3RmzJNAI1E >}}
+        </td>
+    </tr>
+    <tr>
+        <td>11:30</td>
+        <td>
+            **Richard Welpton**, Head of Data Service Infrastructure, Economic and Social Research Council  
+            [Improving the experience of accessing sensitive data for research](../archive/w20250312/HDRN_20250312_04_RichardWelpton.pdf)
+            {{< video https://www.youtube-nocookie.com/embed/qkXRGm62T68 >}}
+        </td>
+    </tr>
+    <tr>
+        <td>11:50</td>
+        <td>
+            **Ben Elsworth**, Lead Data Engineer, Our Future Health            
+            [Processing and releasing genetic data at Our Future Health](../archive/w20250312/HDRN_20250312_05_BenElsworth.pdf)
+            {{< video https://www.youtube-nocookie.com/embed/Ky2pYtui63c >}}
+        </td>
+    </tr>
+    <tr>
+        <td>12:10</td>
+        <td>Break</td>
+    </tr>
+    <tr>
+        <td>12:20</td>
+        <td>
+            **Will Chapman**, Data Scientist, Jean Golding Institute  
+            [Routine data for health research](../archive/w20250312/HDRN_20250312_06_WillChapman.pdf)
+            {{< video https://www.youtube-nocookie.com/embed/0d-C5dDi_7Q >}}
+        </td>
+    </tr>
+    <tr>
+        <td>12:40</td>
+        <td>
+            Q&A and round table <br>
+            Challenges in health data research: aims for the HDRN
+        </td>
+    </tr>
+    <tr>
+        <td>13:00</td>
+        <td>Networking lunch</td>
+    </tr>
+</table>
