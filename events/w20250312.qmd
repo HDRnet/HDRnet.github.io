@@ -11,6 +11,9 @@ Venue: Engineers House, Bristol BS8 3NB [///dent.beyond.bridge](https://what3wor
 [Register](https://forms.office.com/e/jgi_KmVaRbpbSL){.btn .btn-primary}
 -->
 
+[Watch all talks on YouTube](https://www.youtube.com/playlist?list=PLx325CxArn14db8g2gizRRmZn5WLE2vl4){.btn .btn-primary}
+
+
 ## Agenda
 
 *Chair: Pau Erola, Research Software Engineer, Jean Golding Institute, UoB*
