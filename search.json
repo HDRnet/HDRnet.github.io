@@ -1,5 +1,43 @@
 [
   {
+    "objectID": "mailing-list.html",
+    "href": "mailing-list.html",
+    "title": "Join our mailing list",
+    "section": "",
+    "text": "We send announcements to our mailing list when new events become available. Make sure you’re signed up, if you’d like to get the announcements!\nJoin our training alerts mailing list\nFor more information or if you have any questions, please contact us.",
+    "crumbs": [
+      "Join our mailing list"
+    ]
+  },
+  {
+    "objectID": "events/w20250410.html",
+    "href": "events/w20250410.html",
+    "title": "Workshop 10th April 2025",
+    "section": "",
+    "text": "Health Data Research Network (HDRN) workshops are a forum space to advance and promote best and standardised practices in data access, handling, security, analysis and public engagement. Our network is open to universities, governmental bodies, national research initiatives, health professionals, and industry.\nVenue: Wills Memorial Building 3.32, BS8 1RJ ///rich.bossy.square\nRegister"
+  },
+  {
+    "objectID": "events/w20250410.html#agenda",
+    "href": "events/w20250410.html#agenda",
+    "title": "Workshop 10th April 2025",
+    "section": "Agenda",
+    "text": "Agenda\nChair: Pau Erola, Research Software Engineer, Jean Golding Institute, UoB\n\n\n\n\n9:30\n\n\nArrival – self-service tea and coffee\n\n\n\n\n9:50\n\n\nWelcome\n\n\n\n\n10:00\n\n\nTheresa Smith, Senior Lecturer in Statistics, University of Bath\nInterpretable machine learning approaches for detecting psoriatic arthritis using electronic health records\n\n\n\n\n10:30\n\n\nYi Liu, Research Fellow, University of Bristol\nAnnotated Semantic Queries and beyond\n\n\n\n\n10:50\n\n\nCoffee break\n\n\n\n\n11:10\n\n\nRomana Burgess, Senior Research Associate, University of Bristol\nDigital Footprints Lab\n\n\n\n\n11:30\n\n\nDiscussion ML and AI in health research and healthcare\n\n\n\n\n12:10\n\n\nNetworking lunch"
+  },
+  {
+    "objectID": "book.html",
+    "href": "book.html",
+    "title": "The HDRN book",
+    "section": "",
+    "text": "Coming soon."
+  },
+  {
+    "objectID": "archive/w20250312/HDRN_workshop_20250312.html",
+    "href": "archive/w20250312/HDRN_workshop_20250312.html",
+    "title": "Workshop 12th March 2025",
+    "section": "",
+    "text": "Health Data Research Network (HDRN) workshops are a forum space to advance and promote best and standardised practices in data access, handling, security, analysis and public engagement. Our network is open to universities, governmental bodies, national research initiatives, health professionals, and industry.\nVenue: Engineers House, Bristol BS8 3NB ///dent.beyond.bridge\n\nRegister\n\nAgenda \nChair: Pau Erola, Research Software Engineer, Jean Golding Institute, UoB\n9.30 Arrival – self-service tea and coffee\n10.00 Welcome\n10.10 Rachel Denholm, Senior Lecturer, Bristol Medical School, UoB, and Co-Director of Health Data Research UK South West           The rise of new English Secure Data Environments\n10.30 Damon Chow, Business Data Analyst, HDR UK           The Health Data Research Gateway\n10.50 Coffee break\n11.10 Fiona Booth, Data integrity & Quality Assurance Programme Director, UoB           Commercial vs. academic research approaches to reproducibility\n11.30 Richard Welpton, Head of Data Service Infrastructure, Economic and Social Research Council           Improving the experience of accessing sensitive data for research\n11.50 Ben Elsworth, Lead Data Engineer, Our Future Health           Processing and releasing genetic data at Our Future Health\n12.10 Comfort break\n12.20 Will Chapman, Data Scientist, Jean Golding Institute           Routine data for health research\n12.40 Q&A and round table           Challenges in health data research: aims for the HDRN\n13.00 Networking lunch"
+  },
+  {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "Contacts",
@@ -10,37 +48,13 @@
     ]
   },
   {
-    "objectID": "events/w20250312.html",
-    "href": "events/w20250312.html",
-    "title": "Workshop 12th March 2025",
-    "section": "",
-    "text": "Health Data Research Network (HDRN) workshops are a forum space to advance and promote best and standardised practices in data access, handling, security, analysis and public engagement. Our network is open to universities, governmental bodies, national research initiatives, health professionals, and industry.\nVenue: Engineers House, Bristol BS8 3NB ///dent.beyond.bridge\nWatch all talks on YouTube"
-  },
-  {
-    "objectID": "events/w20250312.html#agenda",
-    "href": "events/w20250312.html#agenda",
-    "title": "Workshop 12th March 2025",
-    "section": "Agenda",
-    "text": "Agenda\nChair: Pau Erola, Research Software Engineer, Jean Golding Institute, UoB\n\n\n\n\n9:30\n\n\nArrival – self-service tea and coffee\n\n\n\n\n10:00\n\n\nWelcome\n\n\n\n\n10:10\n\n\nRachel Denholm, Senior Lecturer, Bristol Medical School, UoB, and Co-Director of Health Data Research UK South West\nThe rise of new English Secure Data Environments\n\n\n\n\n\n10:30\n\n\nDamon Chow, Business Data Analyst, HDR UK\nThe Health Data Research Gateway\n\n\n\n\n\n10:50\n\n\nCoffee break\n\n\n\n\n11:10\n\n\nFiona Booth, Data integrity & Quality Assurance Programme Director, UoB\nCommercial vs. academic research approaches to reproducibility\n\n\n\n\n\n11:30\n\n\nRichard Welpton, Head of Data Service Infrastructure, Economic and Social Research Council\nImproving the experience of accessing sensitive data for research\n\n\n\n\n\n11:50\n\n\nBen Elsworth, Lead Data Engineer, Our Future Health\nProcessing and releasing genetic data at Our Future Health\n\n\n\n\n\n12:10\n\n\nBreak\n\n\n\n\n12:20\n\n\nWill Chapman, Data Scientist, Jean Golding Institute\nRoutine data for health research\n\n\n\n\n\n12:40\n\n\nQ&A and round table  Challenges in health data research: aims for the HDRN\n\n\n\n\n13:00\n\n\nNetworking lunch"
-  },
-  {
     "objectID": "events.html",
     "href": "events.html",
     "title": "Events",
     "section": "",
-    "text": "You will be able to book onto events approximately 4 weeks in advance.\nWe’ll send updates to our mailing list when new booking forms are available. Please make sure you’re signed up, if you’d like to get the announcements!\n\n\n\nEvent\nDate\nTime\nLocation\n\n\n\n\n\nWorkshop\nWednesday 12 March 2025\n10am-2pm\nEngineers House, BS8 3BN\nSlides and recordings\n\n\nWorkshop\nWednesday 9 April 2025\n10am-2pm\nWills Memorial Building, BS8 1RJ\n\n\n\nWorkshop\nWednesday 7 May 2025\n10am-2pm\nWills Memorial Building, BS8 1RJ\n\n\n\nWorkshop\nTuesday 3 June 2025\n10am-2pm\nTBA\n\n\n\nWorkshop\nWednesday 2 July 2025\n10am-2pm\nTBA",
+    "text": "You will be able to book onto events approximately 4 weeks in advance.\nWe’ll send updates to our mailing list when new booking forms are available. Please make sure you’re signed up, if you’d like to get the announcements!\n\n\n\nEvent\nDate\nTime\nLocation\n\n\n\n\n\nWorkshop\nWednesday 12 March 2025\n10am-2pm\nEngineers House, BS8 3BN\nSlides and recordings\n\n\nWorkshop\nWednesday 10 April 2025\n10am-1.30pm\nWills Memorial Building, BS8 1RJ\nAgenda Register\n\n\nWorkshop\nWednesday 7 May 2025\n10am-2pm\nWills Memorial Building, BS8 1RJ\n\n\n\nWorkshop\nTuesday 3 June 2025\n10am-2pm\nTBA\n\n\n\nWorkshop\nWednesday 2 July 2025\n10am-2pm\nTBA",
     "crumbs": [
       "Events"
-    ]
-  },
-  {
-    "objectID": "mailing-list.html",
-    "href": "mailing-list.html",
-    "title": "Join our mailing list",
-    "section": "",
-    "text": "We send announcements to our mailing list when new events become available. Make sure you’re signed up, if you’d like to get the announcements!\nJoin our training alerts mailing list\nFor more information or if you have any questions, please contact us.",
-    "crumbs": [
-      "Join our mailing list"
     ]
   },
   {
@@ -84,17 +98,17 @@
     ]
   },
   {
-    "objectID": "book.html",
-    "href": "book.html",
-    "title": "The HDRN book",
-    "section": "",
-    "text": "Coming soon."
-  },
-  {
-    "objectID": "archive/w20250312/HDRN_workshop_20250312.html",
-    "href": "archive/w20250312/HDRN_workshop_20250312.html",
+    "objectID": "events/w20250312.html",
+    "href": "events/w20250312.html",
     "title": "Workshop 12th March 2025",
     "section": "",
-    "text": "Health Data Research Network (HDRN) workshops are a forum space to advance and promote best and standardised practices in data access, handling, security, analysis and public engagement. Our network is open to universities, governmental bodies, national research initiatives, health professionals, and industry.\nVenue: Engineers House, Bristol BS8 3NB ///dent.beyond.bridge\n\nRegister\n\nAgenda \nChair: Pau Erola, Research Software Engineer, Jean Golding Institute, UoB\n9.30 Arrival – self-service tea and coffee\n10.00 Welcome\n10.10 Rachel Denholm, Senior Lecturer, Bristol Medical School, UoB, and Co-Director of Health Data Research UK South West           The rise of new English Secure Data Environments\n10.30 Damon Chow, Business Data Analyst, HDR UK           The Health Data Research Gateway\n10.50 Coffee break\n11.10 Fiona Booth, Data integrity & Quality Assurance Programme Director, UoB           Commercial vs. academic research approaches to reproducibility\n11.30 Richard Welpton, Head of Data Service Infrastructure, Economic and Social Research Council           Improving the experience of accessing sensitive data for research\n11.50 Ben Elsworth, Lead Data Engineer, Our Future Health           Processing and releasing genetic data at Our Future Health\n12.10 Comfort break\n12.20 Will Chapman, Data Scientist, Jean Golding Institute           Routine data for health research\n12.40 Q&A and round table           Challenges in health data research: aims for the HDRN\n13.00 Networking lunch"
+    "text": "Health Data Research Network (HDRN) workshops are a forum space to advance and promote best and standardised practices in data access, handling, security, analysis and public engagement. Our network is open to universities, governmental bodies, national research initiatives, health professionals, and industry.\nVenue: Engineers House, Bristol BS8 3NB ///dent.beyond.bridge\nWatch all talks on YouTube"
+  },
+  {
+    "objectID": "events/w20250312.html#agenda",
+    "href": "events/w20250312.html#agenda",
+    "title": "Workshop 12th March 2025",
+    "section": "Agenda",
+    "text": "Agenda\nChair: Pau Erola, Research Software Engineer, Jean Golding Institute, UoB\n\n\n\n\n9:30\n\n\nArrival – self-service tea and coffee\n\n\n\n\n10:00\n\n\nWelcome\n\n\n\n\n10:10\n\n\nRachel Denholm, Senior Lecturer, Bristol Medical School, UoB, and Co-Director of Health Data Research UK South West\nThe rise of new English Secure Data Environments\n\n\n\n\n\n10:30\n\n\nDamon Chow, Business Data Analyst, HDR UK\nThe Health Data Research Gateway\n\n\n\n\n\n10:50\n\n\nCoffee break\n\n\n\n\n11:10\n\n\nFiona Booth, Data integrity & Quality Assurance Programme Director, UoB\nCommercial vs. academic research approaches to reproducibility\n\n\n\n\n\n11:30\n\n\nRichard Welpton, Head of Data Service Infrastructure, Economic and Social Research Council\nImproving the experience of accessing sensitive data for research\n\n\n\n\n\n11:50\n\n\nBen Elsworth, Lead Data Engineer, Our Future Health\nProcessing and releasing genetic data at Our Future Health\n\n\n\n\n\n12:10\n\n\nBreak\n\n\n\n\n12:20\n\n\nWill Chapman, Data Scientist, Jean Golding Institute\nRoutine data for health research\n\n\n\n\n\n12:40\n\n\nQ&A and round table  Challenges in health data research: aims for the HDRN\n\n\n\n\n13:00\n\n\nNetworking lunch"
   }
 ]
