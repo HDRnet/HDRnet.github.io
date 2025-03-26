@@ -1,0 +1,66 @@
+---
+title: Workshop 10th April 2025
+---
+
+Health Data Research Network (HDRN) workshops are a forum space to advance and promote best and standardised practices in data access, handling, security, analysis and public engagement.
+Our network is open to universities, governmental bodies, national research initiatives, health professionals, and industry.
+
+Venue: Wills Memorial Building **3.32**, BS8 1RJ [///rich.bossy.square](https://what3words.com/rich.bossy.square)
+
+[Register](https://forms.office.com/e/Pwszfxq7XR){.btn .btn-primary}
+
+## Agenda
+
+*Chair: Pau Erola, Research Software Engineer, Jean Golding Institute, UoB*
+
+<style>
+    table {
+        tr td:first-child { text-align: right; }
+    }
+</style>
+<table class="table">
+    <tr>
+        <td>9:30</td>
+        <td>Arrival -- self-service tea and coffee</td>
+    </tr>
+    <tr>
+        <td>9:50</td>
+        <td>Welcome</td>
+    </tr>
+    <tr>
+        <td>10:00</td>
+        <td>
+            **Theresa Smith**, Senior Lecturer in Statistics, University of Bath  
+            *Interpretable machine learning approaches for detecting psoriatic arthritis using electronic health records*
+        </td>
+    </tr>
+    <tr>
+        <td>10:30</td>
+        <td>
+            **Yi Liu**, Research Fellow, University of Bristol  
+            *Annotated Semantic Queries and beyond*
+        </td>
+    </tr>
+    <tr>
+        <td>10:50</td>
+        <td>Coffee break</td>
+    </tr>
+    <tr>
+        <td>11:10</td>
+        <td>
+            **Romana Burgess**, Senior Research Associate, University of Bristol  
+            *Digital Footprints Lab*
+        </td>
+    </tr>
+    <tr>
+        <td>11:30</td>
+        <td>
+            Discussion<br>
+            *ML and AI in health research and healthcare*
+        </td>
+    </tr>
+    <tr>
+        <td>12:10</td>
+        <td>Networking lunch</td>
+    </tr>
+</table>
