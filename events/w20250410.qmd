@@ -52,15 +52,22 @@ Venue: Wills Memorial Building **3.32**, BS8 1RJ [///rich.bossy.square](https://
             *Digital Footprints Lab*
         </td>
     </tr>
-    <tr>
+    <tr>    
         <td>11:30</td>
+        <td>
+            **Laura Corbin**, Research Fellow, University of Bristol  
+            *Inflammation proteomics datasets and applications*
+        </td>
+    </tr>
+    <tr>
+        <td>11:50</td>
         <td>
             Discussion<br>
             *ML and AI in health research and healthcare*
         </td>
     </tr>
     <tr>
-        <td>12:10</td>
+        <td>12:30</td>
         <td>Networking lunch</td>
     </tr>
 </table>
