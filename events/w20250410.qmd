@@ -60,7 +60,11 @@ Venue: Wills Memorial Building **3.32**, BS8 1RJ [///rich.bossy.square](https://
         </td>
     </tr>
     <tr>
-        <td>11:50</td>
+        <td>10:50</td>
+        <td>Comfort break</td>
+    </tr>
+    <tr>
+        <td>11:55</td>
         <td>
             Discussion<br>
             *ML and AI in health research and healthcare*
