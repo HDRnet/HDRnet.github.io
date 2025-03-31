@@ -56,7 +56,7 @@ Venue: Wills Memorial Building **3.32**, BS8 1RJ [///rich.bossy.square](https://
         <td>11:30</td>
         <td>
             **Laura Corbin**, Research Fellow, University of Bristol  
-            *Inflammation proteomics datasets and applications*
+            *Discovery science using high-throughput metabolomics in clinical settings*
         </td>
     </tr>
     <tr>
