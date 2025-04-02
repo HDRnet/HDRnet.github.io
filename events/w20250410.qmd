@@ -9,6 +9,12 @@ Venue: Wills Memorial Building **3.32**, BS8 1RJ [///rich.bossy.square](https://
 
 [Register](https://forms.office.com/e/Pwszfxq7XR){.btn .btn-primary}
 
+::: {#carers .callout-warning icon=false title='Support for parents and carers' collapse="true"}
+HDRN is proud of fostering an inclusive community and wants to make sure our events are accessible to people with a range of different circumstances and needs. If you are a parent or carer affiliated to the University of Bristol, and would like to attend one of our workshops out of your normal working hours, we would be happy to support you.
+
+Read more about it and register your interest here: [Workshop 10th April parents and carers support form](https://forms.office.com/e/uh84hkhDLA)
+:::
+
 ## Agenda
 
 *Chair: Pau Erola, Research Software Engineer, Jean Golding Institute, UoB*
@@ -49,7 +55,7 @@ Venue: Wills Memorial Building **3.32**, BS8 1RJ [///rich.bossy.square](https://
         <td>11:10</td>
         <td>
             **Romana Burgess**, Senior Research Associate, University of Bristol  
-            *Digital Footprints Lab*
+            *Using supermarket shopping data to track population health*
         </td>
     </tr>
     <tr>    

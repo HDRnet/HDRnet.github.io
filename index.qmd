@@ -33,6 +33,12 @@ Check the upcoming events.
 The events will be an opportunity to share knowledge, discuss and agree best practices, and networking.
 Taking inspiration from [The Turing Way](https://book.the-turing-way.org/index.html) and [Data Hazards](https://datahazards.com/), each workshop will be reflected in a chapter of a live, collaborative book on standard practices for health data science.
 
+::: {#carers .callout-warning icon=false title='Support for parents and carers' collapse="false"}
+HDRN is proud of fostering an inclusive community and wants to make sure our events are accessible to people with a range of different circumstances and needs. If you are a parent or carer affiliated to the University of Bristol, and would like to attend one of our workshops out of your normal working hours, we would be happy to support you.
+
+Read more about it and register your interest here: [Workshop 10th April parents and carers support form](https://forms.office.com/e/uh84hkhDLA)
+:::
+
 ## What should I do next?
 
 :::{#page-links}
