@@ -7,6 +7,12 @@ You will be able to book onto events approximately **4 weeks in advance**.
 We'll send updates to our mailing list when new booking forms are available.
 Please make sure [you're signed up](mailing-list.qmd), if you'd like to get the announcements!
 
+::: {#carers .callout-warning icon=false title='Support for parents and carers' collapse="true"}
+HDRN is proud of fostering an inclusive community and wants to make sure our events are accessible to people with a range of different circumstances and needs. If you are a parent or carer affiliated to the University of Bristol, and would like to attend one of our workshops out of your normal working hours, we would be happy to support you.
+
+Read more about it and register your interest here: [Workshop 10th April parents and carers support form](https://forms.office.com/e/uh84hkhDLA)
+:::
+
 ::: {.content-hidden}
 <!--
 This is a template event schedule.
@@ -26,7 +32,7 @@ Workshop  | Wednesday 10 September 2025 | 1-4pm     | Online                    
 Event     | Date                        | Time      | Location                         |
 ----------|-----------------------------|-----------|----------------------------------|--------------
 Workshop  | Wednesday 12 March     2025 | 10am-2pm  | Engineers House, BS8 3BN         | [Slides and recordings](events/w20250312.qmd){.btn .btn-sm .btn-primary}
-Workshop  | Wednesday 10  April    2025 | 10am-1.30pm  | Wills Memorial Building, BS8 1RJ | [Agenda](events/w20250410.qmd){.btn .btn-sm .btn-primary} [Register](https://forms.office.com/e/Pwszfxq7XR){.btn .btn-sm .btn-primary}
+Workshop  | Thursday 10  April    2025 | 10am-1.30pm  | Wills Memorial Building, BS8 1RJ | [Agenda](events/w20250410.qmd){.btn .btn-sm .btn-primary} [Register](https://forms.office.com/e/Pwszfxq7XR){.btn .btn-sm .btn-primary}
 Workshop  | Wednesday 7  May       2025 | 10am-2pm  | Wills Memorial Building, BS8 1RJ |
 Workshop  | Tuesday   3  June      2025 | 10am-2pm  | TBA                              |
 Workshop  | Wednesday 2  July      2025 | 10am-2pm  | TBA                              |
