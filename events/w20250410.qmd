@@ -7,13 +7,16 @@ Our network is open to universities, governmental bodies, national research init
 
 Venue: Wills Memorial Building **3.32**, BS8 1RJ [///rich.bossy.square](https://what3words.com/rich.bossy.square)
 
-[Register](https://forms.office.com/e/Pwszfxq7XR){.btn .btn-primary}
+<!--[Register](https://forms.office.com/e/){.btn .btn-primary}-->
 
 ::: {#carers .callout-warning icon=false title='Support for parents and carers' collapse="true"}
 HDRN is proud of fostering an inclusive community and wants to make sure our events are accessible to people with a range of different circumstances and needs. If you are a parent or carer affiliated to the University of Bristol, and would like to attend one of our workshops out of your normal working hours, we would be happy to support you.
 
 Read more about it and register your interest here: [Workshop 10th April parents and carers support form](https://forms.office.com/e/uh84hkhDLA)
 :::
+
+[Watch all talks on YouTube](https://www.youtube.com/playlist?list=PLx325CxArn14db8g2gizRRmZn5WLE2vl4){.btn .btn-primary}
+
 
 ## Agenda
 
@@ -37,14 +40,18 @@ Read more about it and register your interest here: [Workshop 10th April parents
         <td>10:00</td>
         <td>
             **Theresa Smith**, Senior Lecturer in Statistics, University of Bath  
-            *Interpretable machine learning approaches for detecting psoriatic arthritis using electronic health records*
+            [Interpretable machine learning approaches for detecting psoriatic arthritis using electronic health records]()
+            {{< video https://www.youtube-nocookie.com/embed/8wLH8hmZ0BE >}}
+
         </td>
     </tr>
     <tr>
         <td>10:30</td>
         <td>
             **Yi Liu**, Research Fellow, University of Bristol  
-            *Annotated Semantic Queries and beyond*
+            [Annotated Semantic Queries and beyond](../archive/w20250410/HDRN_20250410_02_YiLiu.pdf)
+            {{< video https://www.youtube-nocookie.com/embed/7GnSSsG05C8 >}}
+
         </td>
     </tr>
     <tr>
@@ -55,14 +62,18 @@ Read more about it and register your interest here: [Workshop 10th April parents
         <td>11:10</td>
         <td>
             **Romana Burgess**, Senior Research Associate, University of Bristol  
-            *Using supermarket shopping data to track population health*
+            [Using supermarket shopping data to track population health](../archive/w20250410/HDRN_20250410_03_RomanaBurgess.pdf)
+            {{< video https://www.youtube-nocookie.com/embed/m85QeQOgyWA >}}
+
         </td>
     </tr>
     <tr>    
         <td>11:30</td>
         <td>
             **Laura Corbin**, Research Fellow, University of Bristol  
-            *Discovery science using high-throughput metabolomics in clinical settings*
+            [Discovery science using high-throughput metabolomics in clinical settings](../archive/w20250410/HDRN_20250410_04_LauraCorbin.pdf)
+            {{< video https://www.youtube-nocookie.com/embed/iGxmliahl-0 >}}
+
         </td>
     </tr>
     <tr>
