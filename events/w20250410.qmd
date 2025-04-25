@@ -40,7 +40,7 @@ Read more about it and register your interest here: [Workshop 10th April parents
         <td>10:00</td>
         <td>
             **Theresa Smith**, Senior Lecturer in Statistics, University of Bath  
-            [Interpretable machine learning approaches for detecting psoriatic arthritis using electronic health records]()
+            [Interpretable machine learning approaches for detecting psoriatic arthritis using electronic health records](../archive/w20250410/HDRN_20250410_01_TheresaSmith.pdf)
             {{< video https://www.youtube-nocookie.com/embed/8wLH8hmZ0BE >}}
 
         </td>
