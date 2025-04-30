@@ -1,0 +1,43 @@
+---
+title: Seminar 7th May 2025
+---
+
+Health Data Research Network (HDRN) workshops are a forum space to advance and promote best and standardised practices in data access, handling, security, analysis and public engagement.
+Our network is open to universities, governmental bodies, national research initiatives, health professionals, and industry.
+
+Venue: Wills Memorial Building **3.32**, BS8 1RJ [///rich.bossy.square](https://what3words.com/rich.bossy.square)
+
+[Register](https://forms.office.com/e/YjkUHAJJSB){.btn .btn-primary}
+
+
+## Agenda
+
+*Chair: Pau Erola, Research Software Engineer, Jean Golding Institute, UoB*
+
+<style>
+    table {
+        tr td:first-child { text-align: right; }
+    }
+</style>
+<table class="table">
+    <tr>
+        <td>11:00</td>
+        <td>
+            **David Western**, Wallscourt Fellow in Health Technology, University of the West of England
+
+            *Machine Learning for Clinical EEG: Achieving State-of-the-Art Classifier Performance and Exploring Trustworthy Modes of Clinical Translation*
+
+        </td>
+    </tr>
+    <tr>
+        <td>10:45</td>
+        <td>
+            Discussion<br>
+            *ML and AI in translational health research*
+        </td>
+    </tr>
+    <tr>
+        <td>12:30</td>
+        <td>Networking lunch</td>
+    </tr>
+</table>
