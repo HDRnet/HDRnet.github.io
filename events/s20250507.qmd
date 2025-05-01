@@ -22,6 +22,10 @@ Venue: Wills Memorial Building **3.32**, BS8 1RJ [///rich.bossy.square](https://
 <table class="table">
     <tr>
         <td>11:00</td>
+        <td>Welcome</td>
+    </tr>
+    <tr>
+        <td>11:05</td>
         <td>
             **David Western**, Wallscourt Fellow in Health Technology, University of the West of England
 
@@ -30,7 +34,7 @@ Venue: Wills Memorial Building **3.32**, BS8 1RJ [///rich.bossy.square](https://
         </td>
     </tr>
     <tr>
-        <td>10:45</td>
+        <td>11:50</td>
         <td>
             Discussion<br>
             *ML and AI in translational health research*
