@@ -34,7 +34,7 @@ Event     | Date                        | Time      | Location                  
 Workshop  | Wednesday 12 March     2025 | 10am-2pm  | Engineers House, BS8 3BN         | [Slides and recordings](events/w20250312.qmd){.btn .btn-sm .btn-primary}
 Workshop  | Thursday 10  April    2025 | 10am-1.30pm  | Wills Memorial Building, BS8 1RJ | [Slides and recordings](events/w20250410.qmd){.btn .btn-sm .btn-primary}
 Seminar  | Wednesday 7  May       2025 | 11am-1.30pm  | Wills Memorial Building, BS8 1RJ | [Slides and recordings](events/s20250507.qmd){.btn .btn-sm .btn-primary}
-Workshop  | Tuesday   3  June      2025 | 1.30pm-4pm  | Merchant Venturers Building, BS8 1UB | [Agenda](events/w20250603.qmd){.btn .btn-sm .disabled} [Register](https://forms.office.com/...){.btn .btn-primary .btn-sm}
-Workshop  | Wednesday 2  July      2025 | 10am-2pm  | TBA                              | [Agenda](){.btn .btn-sm .disabled} [Register](https://forms.office.com/...){.btn .btn-sm .disabled}
+Workshop  | Tuesday   3  June      2025 | 1.30pm-4pm  | Merchant Venturers Building, BS8 1UB | [Agenda](events/w20250603.qmd){.btn .btn-primary .btn-sm} [Register](https://forms.office.com/...){.btn .btn-primary .btn-sm}
+Workshop  | Wednesday 9  July      2025 | 10am-2pm  | TBA                              | [Agenda](){.btn .btn-sm .disabled} [Register](https://forms.office.com/...){.btn .btn-sm .disabled}
 
 : {.schedule}

@@ -18,7 +18,7 @@ Read more about it and register your interest here: [Parents and carers support 
 <!--[Watch all talks on YouTube](https://www.youtube.com/playlist?list=PLx325CxArn14db8g2gizRRmZn5WLE2vl4){.btn .btn-primary}-->
 
 
-## Agenda
+## Provisional Agenda
 
 *Chairs:
 <br>Pau Erola, Research Software Engineer, Jean Golding Institute, UoB
@@ -44,8 +44,8 @@ Read more about it and register your interest here: [Parents and carers support 
             **Simon Thompson**, Professor of Health Informatics at Swansea University,
             Co-director eResearch Platform (SeRP), 
             Co-director of SAIL Databank
-
-            *Beyond Trusted Research Environments: Federated Learning*
+            <br>
+            *Trustworthy Federated Learning*
         </td>
     </tr>
     <tr>
@@ -55,17 +55,17 @@ Read more about it and register your interest here: [Parents and carers support 
     <tr>
         <td>14:50</td>
         <td>
-            **Venexia Walker**, Senior Lecturer, University of Bristol  
+            **Venexia Walker**, Senior Lecturer,University of Bristol
+            <br>
             *Perspectives on using Trusted Research Environments*
-
         </td>
     </tr>
     <tr>
         <td>15:15</td>
         <td>
-            **Josine Min**, Senior Research Fellow, University of Bristol  
-            *Federated Learning in epigenetic studies*
-            
+            **Josine Min**, Senior Research Fellow, University of Bristol
+            <br>
+            *Federated Learning for large epigenetic studies*
         </td>
     </tr>
     <tr>
