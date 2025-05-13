@@ -1,0 +1,77 @@
+---
+title: Workshop 3rd June 2025
+---
+
+Health Data Research Network (HDRN) workshops are a forum space to advance and promote best and standardised practices in data access, handling, security, analysis and public engagement.
+Our network is open to universities, governmental bodies, national research initiatives, health professionals, and industry.
+
+Venue: Merchant Venturers Building **1.11a**, BS8 1UB [///stable.space.stay](https://what3words.com/stable.space.stay)
+
+<!--[Register](https://forms.office.com/e/){.btn .btn-primary}-->
+
+::: {#carers .callout-warning icon=false title='Support for parents and carers' collapse="true"}
+HDRN is proud of fostering an inclusive community and wants to make sure our events are accessible to people with a range of different circumstances and needs. If you are a parent or carer affiliated to the University of Bristol, and would like to attend one of our workshops out of your normal working hours, we would be happy to support you.
+
+Read more about it and register your interest here: [Parents and carers support form](https://forms.office.com/e/uh84hkhDLA)
+:::
+
+<!--[Watch all talks on YouTube](https://www.youtube.com/playlist?list=PLx325CxArn14db8g2gizRRmZn5WLE2vl4){.btn .btn-primary}-->
+
+
+## Agenda
+
+*Chairs:
+<br>Pau Erola, Research Software Engineer, Jean Golding Institute, UoB
+<br>Will Chapman, Data Scientist, Jean Golding Institute, UoB*
+
+<style>
+    table {
+        tr td:first-child { text-align: right; }
+    }
+</style>
+<table class="table">
+    <tr>
+        <td>12:30</td>
+        <td>Networking lunch</td>
+    </tr>
+    <tr>
+        <td>13:30</td>
+        <td>Welcome</td>
+    </tr>
+    <tr>
+        <td>13:40</td>
+        <td>
+            **Simon Thompson**, Professor of Health Informatics at Swansea University,
+            Co-director eResearch Platform (SeRP), 
+            Co-director of SAIL Databank
+
+            *Beyond Trusted Research Environments: Federated Learning*
+        </td>
+    </tr>
+    <tr>
+        <td>14:30</td>
+        <td>Coffee break</td>
+    </tr>
+    <tr>
+        <td>14:50</td>
+        <td>
+            **Venexia Walker**, Senior Lecturer, University of Bristol  
+            *Perspectives on using Trusted Research Environments*
+
+        </td>
+    </tr>
+    <tr>
+        <td>15:15</td>
+        <td>
+            **Josine Min**, Senior Research Fellow, University of Bristol  
+            *Federated Learning in epigenetic studies*
+            
+        </td>
+    </tr>
+    <tr>
+        <td>15:40</td>
+        <td>
+            Closing remarks<br>
+        </td>
+    </tr>
+</table>

@@ -16,9 +16,6 @@ Read more about it and register your interest here: [Parents and carers support 
 
 <!--[Register](https://forms.office.com/e/){.btn .btn-primary}-->
 
-[Register](https://forms.office.com/e/YjkUHAJJSB){.btn .btn-primary}
-
-
 ## Agenda
 
 *Chair: Pau Erola, Research Software Engineer, Jean Golding Institute, UoB*
@@ -38,7 +35,8 @@ Read more about it and register your interest here: [Parents and carers support 
         <td>
             **David Western**, Wallscourt Fellow in Health Technology, University of the West of England
 
-            *Machine Learning for Clinical EEG: Achieving State-of-the-Art Classifier Performance and Exploring Trustworthy Modes of Clinical Translation*
+            [Machine Learning for Clinical EEG: Achieving State-of-the-Art Classifier Performance and Exploring Trustworthy Modes of Clinical Translation](../archive/s20250507/HDRN_20250507_01_DavidWestern.pdf)
+            {{< video https://www.youtube-nocookie.com/... >}}
 
         </td>
     </tr>
