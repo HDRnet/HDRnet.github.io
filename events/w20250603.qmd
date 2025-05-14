@@ -49,11 +49,11 @@ Read more about it and register your interest here: [Parents and carers support 
         </td>
     </tr>
     <tr>
-        <td>14:30</td>
+        <td>14:20</td>
         <td>Coffee break</td>
     </tr>
     <tr>
-        <td>14:50</td>
+        <td>14:40</td>
         <td>
             **Venexia Walker**, Senior Lecturer,University of Bristol
             <br>
@@ -61,7 +61,7 @@ Read more about it and register your interest here: [Parents and carers support 
         </td>
     </tr>
     <tr>
-        <td>15:15</td>
+        <td>15:05</td>
         <td>
             **Josine Min**, Senior Research Fellow, University of Bristol
             <br>
@@ -69,7 +69,7 @@ Read more about it and register your interest here: [Parents and carers support 
         </td>
     </tr>
     <tr>
-        <td>15:40</td>
+        <td>15:30</td>
         <td>
             Closing remarks<br>
         </td>
