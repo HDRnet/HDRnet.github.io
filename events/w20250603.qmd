@@ -7,7 +7,7 @@ Our network is open to universities, governmental bodies, national research init
 
 Venue: Merchant Venturers Building **1.11a**, BS8 1UB [///stable.space.stay](https://what3words.com/stable.space.stay)
 
-<!--[Register](https://forms.office.com/e/){.btn .btn-primary}-->
+[Register](https://forms.office.com/e/eNHSL2rRrU){.btn .btn-primary}
 
 ::: {#carers .callout-warning icon=false title='Support for parents and carers' collapse="true"}
 HDRN is proud of fostering an inclusive community and wants to make sure our events are accessible to people with a range of different circumstances and needs. If you are a parent or carer affiliated to the University of Bristol, and would like to attend one of our workshops out of your normal working hours, we would be happy to support you.
@@ -18,7 +18,7 @@ Read more about it and register your interest here: [Parents and carers support 
 <!--[Watch all talks on YouTube](https://www.youtube.com/playlist?list=PLx325CxArn14db8g2gizRRmZn5WLE2vl4){.btn .btn-primary}-->
 
 
-## Provisional Agenda
+## Agenda
 
 *Chairs:
 <br>Pau Erola, Research Software Engineer, Jean Golding Institute, UoB
