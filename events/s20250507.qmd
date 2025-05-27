@@ -36,7 +36,7 @@ Read more about it and register your interest here: [Parents and carers support 
             **David Western**, Wallscourt Fellow in Health Technology, University of the West of England
 
             [Machine Learning for Clinical EEG: Achieving State-of-the-Art Classifier Performance and Exploring Trustworthy Modes of Clinical Translation](../archive/s20250507/HDRN_20250507_01_DavidWestern.pdf)
-            {{< video https://www.youtube-nocookie.com/... >}}
+            {{< video https://www.youtube-nocookie.com/embed/qoOEXJrMrKg >}}
 
         </td>
     </tr>
