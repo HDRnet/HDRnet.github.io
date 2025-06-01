@@ -76,13 +76,13 @@ Read more about it and register your interest here: [Parents and carers support 
         <td>Coffee break <br><br><br>*Session 2, chair Miquel Perello-Nieto*</td>
     </tr>
  <tr>
-        <td>10:30</td>
+        <td>11:30</td>
         <td>
             **Sarah Blake**, Cardiology Registrar in Adult Congenital Heart Disease, Royal Brompton and Harefield hospitals 
         </td>
     </tr>
     <tr>
-        <td>10:45</td>
+        <td>11:45</td>
         <td>
             **Jack Gibb**, senior trainee in congenital cardiology and PhD student
         </td>
