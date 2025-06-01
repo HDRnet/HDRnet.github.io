@@ -23,7 +23,8 @@ Read more about it and register your interest here: [Parents and carers support 
 ## Provisional Agenda
 
 *Chairs:
-<br>Serban Stoica, Associate Professor in Congenital Cardiac Surgery, Bristol Medical School
+<br>Serban Stoica, Consultant Cardiac Surgeon, University Hospitals Bristol NHS Foundation Trust <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Associate Professor in Congenital Cardiac Surgery, Bristol Medical School
 <br>Miquel Perello-Nieto, Senior Research Associate, School of Engineering Mathematics and Technology
 <br>Pau Erola, Research Software Engineer, Jean Golding Institute*
 
@@ -68,7 +69,7 @@ Read more about it and register your interest here: [Parents and carers support 
     <tr>
         <td>10:55</td>
         <td>
-            **Dan Dorobantu** young academic cardiologist  
+            **Dan Dorobantu**, Clinical Cardiology Fellow, University Hospitals Bristol NHS Foundation Trust
         </td>
     </tr>
     <tr>
@@ -84,7 +85,7 @@ Read more about it and register your interest here: [Parents and carers support 
     <tr>
         <td>11:45</td>
         <td>
-            **Jack Gibb**, senior trainee in congenital cardiology and PhD student
+            **Jack Gibb**, Cardiology Registrar, University Hospitals Bristol NHS Foundation Trust
         </td>
     </tr>
     <tr>
@@ -117,7 +118,7 @@ Read more about it and register your interest here: [Parents and carers support 
     </tr>
     <tr>
         <td>2:15</td>
-        <td>Coffee break <br><br><br>*Session 4, chair Serban & Pau*</td>
+        <td>Coffee break <br><br><br>*Session 4, chairs Serban & Pau*</td>
     </tr>
     <tr>
         <td>2:35</td>
