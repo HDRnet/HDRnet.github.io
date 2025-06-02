@@ -107,13 +107,13 @@ Read more about it and register your interest here: [Parents and carers support 
     <tr>
         <td>1:45</td>
         <td>
-            **Zhaozhen Xu** Senior Research Associate in Machine Learning, Bristol Medical School
+            **Zhaozhen Xu**, Senior Research Associate in Machine Learning, Bristol Medical School
         </td>
     </tr>
     <tr>
         <td>2:00</td>
         <td>
-            TBA
+            **Dan Lawson**, Associate Professor in Data Science, School of Mathematics
         </td>
     </tr>
     <tr>
