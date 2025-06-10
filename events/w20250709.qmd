@@ -7,9 +7,8 @@ Our network is open to universities, governmental bodies, national research init
 
 Venue: Wills Memorial Building **3.32**, BS8 1RJ [///rich.bossy.square](https://what3words.com/rich.bossy.square)
 
-<!--
-[Register](https://forms.office.com/e/...){.btn .btn-primary}
--->
+[Register](https://forms.office.com/e/9h0Nr80bgc){.btn .btn-primary}
+
 
 ::: {#carers .callout-warning icon=false title='Support for parents and carers' collapse="true"}
 HDRN is proud of fostering an inclusive community and wants to make sure our events are accessible to people with a range of different circumstances and needs. If you are a parent or carer affiliated to the University of Bristol, and would like to attend one of our workshops out of your normal working hours, we would be happy to support you.
