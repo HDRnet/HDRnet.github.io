@@ -1,5 +1,7 @@
 ---
 title: Workshop 9th July 2025
+#include-in-header: ../assets/collab-leap-nhsnbt.html
+#navbar: false
 ---
 
 Health Data Research Network (HDRN) workshops are a forum space to advance and promote best and standardised practices in data access, handling, security, analysis and public engagement.
@@ -7,17 +9,24 @@ Our network is open to universities, governmental bodies, national research init
 
 Venue: Wills Memorial Building **3.32**, BS8 1RJ [///rich.bossy.square](https://what3words.com/rich.bossy.square)
 
-[Register](https://forms.office.com/e/9h0Nr80bgc){.btn .btn-primary}
-
-
 ::: {#carers .callout-warning icon=false title='Support for parents and carers' collapse="true"}
 HDRN is proud of fostering an inclusive community and wants to make sure our events are accessible to people with a range of different circumstances and needs. If you are a parent or carer affiliated to the University of Bristol, and would like to attend one of our workshops out of your normal working hours, we would be happy to support you.
 
 Read more about it and register your interest here: [Parents and carers support form](https://forms.office.com/e/uh84hkhDLA)
 :::
 
+[Register](https://forms.office.com/e/9h0Nr80bgc){.btn .btn-primary}
+
+<br>
+
+<small>In collaboration with:</small><br>
+<img src="../assets/leap-ebi.png" alt="HDRN collaborators"
+style="max-height:80px;"> <img src="../assets/nhsnbt.png" alt="HDRN collaborators"
+style="max-height:80px;">
+
 <!--[Watch all talks on YouTube](https://www.youtube.com/playlist?list=){.btn .btn-primary}-->
 
+<br>
 
 ## Provisional Agenda
 
@@ -46,6 +55,13 @@ Read more about it and register your interest here: [Parents and carers support 
             **Patrick Kehoe**, Gestetner Professor of Translational Dementia Research & Director of Elizabeth Blackwell Institute
         </td>
     </tr>
+    <tr>
+        <td>10:10</td>
+        <td>Challenges in Congenital Heart Disease Research
+            <br>**Serban Stoica**, Consultant Cardiac Surgeon, University Hospitals Bristol NHS Foundation Trust;Associate Professor in Congenital Cardiac Surgery, Bristol Medical School
+        </td>
+    </tr>
+
     <tr>
         <td></td>
         <td>
