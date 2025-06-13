@@ -8,7 +8,8 @@ title: Harnessing AI and Data Science in Congenital Heart Disease
 #### Workshop 9th July 2025
 Venue: Wills Memorial Building **3.32**, BS8 1RJ [///rich.bossy.square](https://what3words.com/rich.bossy.square)
 
-Data science Artificial Intelligence (AI) are revolutionising medical research and clinical practice. Congenital heart disease (CHD) is an exceptionally complicated condition involving developmental biology, genetic and environmental factors, anatomical complexity, and hemodynamics. This workshop will explore how to harness AI and multimodal data to inform early detection, more accurate diagnosis, and personalised treatment strategies.
+Congenital heart disease (CHD) comprises a range of heart conditions affecting almost 1 in 100 babies born in the UK. CHD is an exceptionally complicated condition involving developmental biology, genetic and environmental factors, anatomical complexity, and hemodynamics. Its early detection is crucial for reducing the risk of mortality and morbidity, but it presents multiple challenges. Data Science and Artificial Intelligence approaches are revolutionising some areas of medical research and clinical practice, with some potential and promising applications in the early diagnostics and decision support for CHD. This workshop will explore how Data Science and AI can help to inform early detection, more accurate diagnosis, and personalised treatment strategies.
+
 
 ::: {#carers .callout-warning icon=false title='Support for parents and carers' collapse="true"}
 HDRN is proud of fostering an inclusive community and wants to make sure our events are accessible to people with a range of different circumstances and needs. If you are a parent or carer affiliated to the University of Bristol, and would like to attend one of our workshops out of your normal working hours, we would be happy to support you.
@@ -80,21 +81,21 @@ Read more about it and register your interest here: [Parents and carers support 
         <td>10:20</td>
         <td>
             **Maria Pufulete**, Associate Professor in Applied Health Methodology
-            <br><text style="color:#5d2482;">*TBA*</text>
+            <br><text style="color:#5d2482;">*From embryonic idea to funded projects: challenges and opportunities in cardiovascular science*</text>
         </td>
     </tr>
     <tr>
         <td>10:35</td>
         <td>
             **Giovanni Biglino**, Associate Professor in Bioengineering
-            <br><text style="color:#5d2482;">*TBA*</text>
+            <br><text style="color:#5d2482;">*Statistical shape modelling in CHD*</text>
         </td>
     </tr>
     <tr>
         <td>10:50</td>
         <td>
             **Dan Dorobantu**, Clinical Cardiology Fellow, University Hospitals Bristol NHS Foundation Trust
-            <br><text style="color:#5d2482;">*TBA*</text>
+            <br><text style="color:#5d2482;">*Exercise echo in CHD: complex questions and analytics*</text>
         </td>
     </tr>
     <tr>
@@ -112,7 +113,7 @@ Read more about it and register your interest here: [Parents and carers support 
         <td>11:40</td>
         <td>
             **Jack Gibb**, Cardiology Registrar, University Hospitals Bristol NHS Foundation Trust
-            <br><text style="color:#5d2482;">*TBA*</text>
+            <br><text style="color:#5d2482;">*Omics in CHD: a journey of discovery*</text>
         </td>
     </tr>
     <tr>
@@ -120,7 +121,7 @@ Read more about it and register your interest here: [Parents and carers support 
         <td>
             **Colin McMahon**, Consultant in Cardiology, Children's Health Ireland at Crumlin;
             Professor in Paediatric Cardiology, University College Dublin
-            <br><text style="color:#5d2482;">*TBA*</text>
+            <br><text style="color:#5d2482;">*CHD: unique complexities and high stakes in decision making*</text>
         </td>
     </tr>
     <tr>
