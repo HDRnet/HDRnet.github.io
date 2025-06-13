@@ -1,13 +1,14 @@
 ---
-title: Workshop 9th July 2025
+title: Harnessing AI and Data Science in Congenital Heart Disease
+#subtitle: Workshop 9th July 2025
 #include-in-header: ../assets/collab-leap-nhsnbt.html
 #navbar: false
 ---
 
-Health Data Research Network (HDRN) workshops are a forum space to advance and promote best and standardised practices in data access, handling, security, analysis and public engagement.
-Our network is open to universities, governmental bodies, national research initiatives, health professionals, and industry.
-
+#### Workshop 9th July 2025
 Venue: Wills Memorial Building **3.32**, BS8 1RJ [///rich.bossy.square](https://what3words.com/rich.bossy.square)
+
+Data science Artificial Intelligence (AI) are revolutionising medical research and clinical practice. Congenital heart disease (CHD) is an exceptionally complicated condition involving developmental biology, genetic and environmental factors, anatomical complexity, and hemodynamics. This workshop will explore how to harness AI and multimodal data to inform early detection, more accurate diagnosis, and personalised treatment strategies.
 
 ::: {#carers .callout-warning icon=false title='Support for parents and carers' collapse="true"}
 HDRN is proud of fostering an inclusive community and wants to make sure our events are accessible to people with a range of different circumstances and needs. If you are a parent or carer affiliated to the University of Bristol, and would like to attend one of our workshops out of your normal working hours, we would be happy to support you.
@@ -20,9 +21,15 @@ Read more about it and register your interest here: [Parents and carers support 
 <br>
 
 <small>In collaboration with:</small><br>
-<img src="../assets/leap-ebi.png" alt="HDRN collaborators"
-style="max-height:80px;"> <img src="../assets/nhsnbt.png" alt="HDRN collaborators"
-style="max-height:80px;">
+<img src="../assets/leap.png" alt="LEAP"
+    style="max-height:80px;vertical-align:middle;margin:5px 15px 5px 30px">
+<img src="../assets/ebi.png" alt="EBI"
+    style="max-height:80px;vertical-align:middle;margin:5px 15px 5px 30px">
+<img src="../assets/brhc.png" alt="BRH for Children"
+    style="max-height:80px;vertical-align:middle;margin:5px 15px 5px 15px">
+<img src="../assets/nhsnbt.png" alt="NHS Bristol and Weston"
+    style="max-height:80px;vertical-align:middle;margin:5px 15px 5px 15px">
+
 
 <!--[Watch all talks on YouTube](https://www.youtube.com/playlist?list=){.btn .btn-primary}-->
 
@@ -91,7 +98,7 @@ style="max-height:80px;">
         <td>11:05</td>
         <td>Coffee break <br><br><br>*Session 2, chair Pau Erola*</td>
     </tr>
- <tr>
+    <tr>
         <td>11:25</td>
         <td>
             **Sarah Blake**, Cardiology Registrar in Adult Congenital Heart Disease, Royal Brompton and Harefield hospitals 
@@ -103,7 +110,7 @@ style="max-height:80px;">
             **Jack Gibb**, Cardiology Registrar, University Hospitals Bristol NHS Foundation Trust
         </td>
     </tr>
-   <tr>
+    <tr>
         <td>11:55</td>
         <td>
             **Colin McMahon**, Consultant in Cardiology, Children's Health Ireland at Crumlin;
@@ -130,6 +137,13 @@ style="max-height:80px;">
         <td>1:45</td>
         <td>
             **Zhaozhen Xu**, Senior Research Associate in Machine Learning, Bristol Medical School
+        </td>
+    </tr>
+    <tr>
+        <td>11:55</td>
+        <td>
+            **Colin McMahon**, Consultant in Cardiology, Children's Health Ireland at Crumlin;
+            Professor in Paediatric Cardiology, University College Dublin
         </td>
     </tr>
     <tr>
