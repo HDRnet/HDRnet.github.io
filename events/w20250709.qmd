@@ -35,7 +35,7 @@ Read more about it and register your interest here: [Parents and carers support 
 
 <br>
 
-## Provisional Agenda
+## Agenda
 
 *Chairs:
 <br>Serban Stoica, Consultant Cardiac Surgeon, University Hospitals Bristol NHS Foundation Trust <br>
@@ -80,18 +80,21 @@ Read more about it and register your interest here: [Parents and carers support 
         <td>10:20</td>
         <td>
             **Maria Pufulete**, Associate Professor in Applied Health Methodology
+            <br><text style="color:#5d2482;">*TBA*</text>
         </td>
     </tr>
     <tr>
         <td>10:35</td>
         <td>
             **Giovanni Biglino**, Associate Professor in Bioengineering
+            <br><text style="color:#5d2482;">*TBA*</text>
         </td>
     </tr>
     <tr>
         <td>10:50</td>
         <td>
             **Dan Dorobantu**, Clinical Cardiology Fellow, University Hospitals Bristol NHS Foundation Trust
+            <br><text style="color:#5d2482;">*TBA*</text>
         </td>
     </tr>
     <tr>
@@ -101,13 +104,15 @@ Read more about it and register your interest here: [Parents and carers support 
     <tr>
         <td>11:25</td>
         <td>
-            **Sarah Blake**, Cardiology Registrar in Adult Congenital Heart Disease, Royal Brompton and Harefield hospitals 
+            **Sarah Blake**, Cardiology Registrar in Adult Congenital Heart Disease, Royal Brompton and Harefield hospitals
+            <br><text style="color:#5d2482;">*Deploying AI in the NHS*</text>
         </td>
     </tr>
     <tr>
         <td>11:40</td>
         <td>
             **Jack Gibb**, Cardiology Registrar, University Hospitals Bristol NHS Foundation Trust
+            <br><text style="color:#5d2482;">*TBA*</text>
         </td>
     </tr>
     <tr>
@@ -115,6 +120,7 @@ Read more about it and register your interest here: [Parents and carers support 
         <td>
             **Colin McMahon**, Consultant in Cardiology, Children's Health Ireland at Crumlin;
             Professor in Paediatric Cardiology, University College Dublin
+            <br><text style="color:#5d2482;">*TBA*</text>
         </td>
     </tr>
     <tr>
@@ -131,12 +137,15 @@ Read more about it and register your interest here: [Parents and carers support 
         <td>1:30</td>
         <td>
             **James Pope**, Senior Lecturer, School of Engineering Mathematics and Technology
+            <br><text style="color:#5d2482;">*Pervasive Health Monitoring: An Overview*</text>
         </td>
     </tr>
     <tr>
         <td>1:45</td>
         <td>
             **Zhaozhen Xu**, Senior Research Associate in Machine Learning, Bristol Medical School
+            <br><text style="color:#5d2482;">*M-PreSS: A Model Pre-training Approach for Study Screening in
+Systematic Reviews*</text>
         </td>
     </tr>
     <tr>
@@ -144,18 +153,21 @@ Read more about it and register your interest here: [Parents and carers support 
         <td>
             **Colin McMahon**, Consultant in Cardiology, Children's Health Ireland at Crumlin;
             Professor in Paediatric Cardiology, University College Dublin
+            <br><text style="color:#5d2482;">*TBA*</text>
         </td>
     </tr>
     <tr>
         <td>2:00</td>
         <td>
             **Dan Lawson**, Associate Professor in Data Science, School of Mathematics
+            <br><text style="color:#5d2482;">*TBA*</text>
         </td>
     </tr>
     <tr>
         <td>2:15</td>
         <td>
             **Abigail Fraser**, Professor of Epidemiology, Bristol Medical School
+            <br><text style="color:#5d2482;">*Avon Longitudinal Study of Parents and Children (ALSPAC)*</text>
         </td>
     </tr>
     <tr>
