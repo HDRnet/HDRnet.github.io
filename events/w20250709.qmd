@@ -152,7 +152,7 @@ Systematic Reviews*</text>
         <td>2:00</td>
         <td>
             **Dan Lawson**, Associate Professor in Data Science, School of Mathematics
-            <br><text style="color:#5d2482;">*TBA*</text>
+            <br><text style="color:#5d2482;">*Genetic associations, population stratification, towards rare variant attribution*</text>
         </td>
     </tr>
     <tr>
