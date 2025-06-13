@@ -130,8 +130,8 @@ Read more about it and register your interest here: [Parents and carers support 
         </td>
     </tr>
     <tr>
-        <td>12:30</td>
-        <td>Networking Lunch <br><br><br>*Session 3, chair Miquel Perello-Nieto*</td>
+        <td><br>12:30</td>
+        <td><br>Networking Lunch<br><br><br>*Session 3, chair Miquel Perello-Nieto*</td>
     </tr>
     <tr>
         <td>1:30</td>
@@ -146,14 +146,6 @@ Read more about it and register your interest here: [Parents and carers support 
             **Zhaozhen Xu**, Senior Research Associate in Machine Learning, Bristol Medical School
             <br><text style="color:#5d2482;">*M-PreSS: A Model Pre-training Approach for Study Screening in
 Systematic Reviews*</text>
-        </td>
-    </tr>
-    <tr>
-        <td>11:55</td>
-        <td>
-            **Colin McMahon**, Consultant in Cardiology, Children's Health Ireland at Crumlin;
-            Professor in Paediatric Cardiology, University College Dublin
-            <br><text style="color:#5d2482;">*TBA*</text>
         </td>
     </tr>
     <tr>
