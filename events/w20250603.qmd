@@ -46,6 +46,7 @@ Read more about it and register your interest here: [Parents and carers support 
             Co-director of SAIL Databank
             <br>
             *Trustworthy Federated Learning*
+            {{< video https://www.youtube-nocookie.com/embed/lMfxgEF6Rio >}}
         </td>
     </tr>
     <tr>
@@ -58,6 +59,7 @@ Read more about it and register your interest here: [Parents and carers support 
             **Venexia Walker**, Senior Lecturer,University of Bristol
             <br>
             *Perspectives on using Trusted Research Environments*
+            {{< video https://www.youtube-nocookie.com/embed/2w3qTSVZXYg >}}
         </td>
     </tr>
     <tr>
@@ -66,6 +68,7 @@ Read more about it and register your interest here: [Parents and carers support 
             **Josine Min**, Senior Research Fellow, University of Bristol
             <br>
             *Federated Learning for large epigenetic studies*
+            {{< video https://www.youtube-nocookie.com/embed/GbNlRXzrUS8 >}}
         </td>
     </tr>
     <tr>
