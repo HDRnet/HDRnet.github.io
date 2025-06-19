@@ -45,7 +45,7 @@ Read more about it and register your interest here: [Parents and carers support 
             Co-director eResearch Platform (SeRP), 
             Co-director of SAIL Databank
             <br>
-            *Trustworthy Federated Learning*
+            [Trustworthy Federated Learning](../archive/w20250603/HDRN_20250603_01_SimonThompson.pdf)
             {{< video https://www.youtube-nocookie.com/embed/lMfxgEF6Rio >}}
         </td>
     </tr>
@@ -58,7 +58,7 @@ Read more about it and register your interest here: [Parents and carers support 
         <td>
             **Venexia Walker**, Senior Lecturer,University of Bristol
             <br>
-            *Perspectives on using Trusted Research Environments*
+            [Perspectives on using Trusted Research Environments](../archive/w20250603/HDRN_20250603_02_VenexiaWalker.pdf)
             {{< video https://www.youtube-nocookie.com/embed/2w3qTSVZXYg >}}
         </td>
     </tr>
@@ -67,7 +67,7 @@ Read more about it and register your interest here: [Parents and carers support 
         <td>
             **Josine Min**, Senior Research Fellow, University of Bristol
             <br>
-            *Federated Learning for large epigenetic studies*
+            [Federated Learning for large epigenetic studies](../archive/w20250603/HDRN_20250603_03_JosineMin.pdf)
             {{< video https://www.youtube-nocookie.com/embed/GbNlRXzrUS8 >}}
         </td>
     </tr>
