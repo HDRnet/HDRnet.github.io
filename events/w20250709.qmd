@@ -150,8 +150,7 @@ Read more about it and register your interest here: [Parents and carers support 
         <td>1:45</td>
         <td>
             **Zhaozhen Xu**, Senior Research Associate in Machine Learning, Bristol Medical School
-            <br>[M-PreSS: A Model Pre-training Approach for Study Screening in
-Systematic Reviews]()
+            <br>[M-PreSS: A Model Pre-training Approach for Study Screening in Systematic Reviews](../archive/w20250709/HDRN_20250709_09_ZhaozhenXu.pdf)
 {{< video https://www.youtube-nocookie.com/embed/oox6rqQ6qK8 >}}
         </td>
     </tr>
