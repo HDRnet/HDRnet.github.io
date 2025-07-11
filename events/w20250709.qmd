@@ -66,7 +66,7 @@ Read more about it and register your interest here: [Parents and carers support 
         <td>10:10</td>
         <td>
             **Serban Stoica**, Consultant Cardiac Surgeon, University Hospitals Bristol NHS Foundation Trust; Associate Professor in Congenital Cardiac Surgery, Bristol Medical School
-            <br>[Challenges in Congenital Heart Disease Research]()
+            <br>[Challenges in Congenital Heart Disease Research](../archive/w20250709/HDRN_20250709_01_SerbanStoica.pdf)
             {{< video https://www.youtube-nocookie.com/embed/sINCagcYP1I >}}
         </td>
     </tr>
@@ -80,7 +80,7 @@ Read more about it and register your interest here: [Parents and carers support 
         <td>10:20</td>
         <td>
             **Maria Pufulete**, Associate Professor in Applied Health Methodology
-            <br>[From embryonic idea to funded projects: challenges and opportunities in cardiovascular science]()
+            <br>[From embryonic idea to funded projects: challenges and opportunities in cardiovascular science](../archive/w20250709/HDRN_20250709_02_MariaPufulete.pdf)
             {{< video https://www.youtube-nocookie.com/embed/9H-NtJR54QM >}}
         </td>
     </tr>
@@ -96,7 +96,7 @@ Read more about it and register your interest here: [Parents and carers support 
         <td>10:50</td>
         <td>
             **Dan Dorobantu**, Clinical Cardiology Fellow, University Hospitals Bristol NHS Foundation Trust
-            <br>[Exercise echo in CHD: complex questions and analytics]()
+            <br>[Exercise echo in CHD: complex questions and analytics](../archive/w20250709/HDRN_20250709_04_DanDorobantu.pdf)
             {{< video https://www.youtube-nocookie.com/embed/oLLTfTmAjj4 >}}
         </td>
     </tr>
@@ -125,7 +125,7 @@ Read more about it and register your interest here: [Parents and carers support 
         <td>
             **Colin McMahon**, Consultant in Cardiology, Children's Health Ireland at Crumlin;
             Professor in Paediatric Cardiology, University College Dublin
-            <br>[CHD: unique complexities and high stakes in decision making]()
+            <br>[CHD: unique complexities and high stakes in decision making](../archive/w20250709/HDRN_20250709_07_ColinMcMahon.pdf)
             {{< video https://www.youtube-nocookie.com/embed/7xRQZPrV5_4 >}}
         </td>
     </tr>
@@ -143,7 +143,7 @@ Read more about it and register your interest here: [Parents and carers support 
         <td>1:30</td>
         <td>
             **James Pope**, Senior Lecturer, School of Engineering Mathematics and Technology
-            <br>[Pervasive Health Monitoring: An Overview]()
+            <br>[Pervasive Health Monitoring: An Overview](../archive/w20250709/HDRN_20250709_08_JamesPope.pdf)
         </td>
     </tr>
     <tr>
@@ -159,7 +159,7 @@ Systematic Reviews]()
         <td>2:00</td>
         <td>
             **Dan Lawson**, Associate Professor in Data Science, School of Mathematics
-            <br>[Genetic associations, population stratification, towards rare variant attribution]()
+            <br>[Genetic associations, population stratification, towards rare variant attribution](../archive/w20250709/HDRN_20250709_10_DanLawson.pdf)
             {{< video https://www.youtube-nocookie.com/embed/H9alGVAXMTg >}}
 
         </td>
@@ -168,7 +168,7 @@ Systematic Reviews]()
         <td>2:15</td>
         <td>
             **Abigail Fraser**, Professor of Epidemiology, Bristol Medical School
-            <br>[Avon Longitudinal Study of Parents and Children (ALSPAC)]()
+            <br>[Avon Longitudinal Study of Parents and Children (ALSPAC)](../archive/w20250709/HDRN_20250709_11_AbigailFraser.pdf)
             {{< video https://www.youtube-nocookie.com/embed/eMfOvjSwRjA >}}
         </td>
     </tr>
