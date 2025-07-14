@@ -24,7 +24,7 @@ Event     | Date                        | Time      | Location                  
 ----------|-----------------------------|-----------|----------------------------------|--------------
 Workshop  | Wednesday 1  January   2025 | 10am-2pm  | Engineers House, BS8 3BN         | [Agenda](events/w20250101.qmd) [Registration closed](){.btn .btn-sm .disabled}
 Workshop  | Wednesday 1  February  2025 | 1-4pm     | Wills Memorial Building, BS8 1RJ | [Agenda](events/w20250102.qmd) [Register](https://forms.office.com/...){.btn .btn-sm .disabled}
-Workshop  | Wednesday 10 September 2025 | 1-4pm     | Online                           | [Agenda](events/w20250910.qmd)
+Workshop  | Wednesday 10 September 2025 | 1-4pm     | Online                           | [Agenda](events/w20250709.html){.btn .btn-primary .btn-sm} [Register](https://forms.office.com/e/9h0Nr80bgc){.btn .btn-primary .btn-sm}
 
 : {.schedule}
 :::
@@ -35,6 +35,6 @@ Workshop  | Wednesday 12 March     2025 | 10am-2pm  | Engineers House, BS8 3BN  
 Workshop  | Thursday 10  April    2025 | 10am-1.30pm  | Wills Memorial Building, BS8 1RJ | [Slides and recordings](events/w20250410.qmd){.btn .btn-sm .btn-primary}
 Seminar  | Wednesday 7  May       2025 | 11am-1.30pm  | Wills Memorial Building, BS8 1RJ | [Slides and recordings](events/s20250507.qmd){.btn .btn-sm .btn-primary}
 Workshop  | Tuesday   3  June      2025 | 1.30pm-4pm  | Merchant Venturers Building, BS8 1UB | [Slides and recordings](events/w20250603.qmd){.btn .btn-primary .btn-sm}
-Workshop  | Wednesday 9  July      2025 | 10am-3.30pm  | Wills Memorial Building, BS8 1RJ                              | [Agenda](events/w20250709.html){.btn .btn-primary .btn-sm} [Register](https://forms.office.com/e/9h0Nr80bgc){.btn .btn-primary .btn-sm}
+Workshop  | Wednesday 9  July      2025 | 10am-3.30pm  | Wills Memorial Building, BS8 1RJ                              | [Slides and recordings](events/w20250709.html){.btn .btn-sm .btn-primary}
 
 : {.schedule}
