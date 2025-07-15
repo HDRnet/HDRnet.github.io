@@ -144,7 +144,7 @@ Read more about it and register your interest here: [Parents and carers support 
         <td>
             **James Pope**, Senior Lecturer, School of Engineering Mathematics and Technology
             <br>[Pervasive Health Monitoring: An Overview](../archive/w20250709/HDRN_20250709_08_JamesPope.pdf)
-            <br><br><p style="color:red;">Recording not available.</p>
+            {{< video https://www.youtube-nocookie.com/embed/6ro_5K9yGV0 >}}
         </td>
     </tr>
     <tr>
